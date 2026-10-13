@@ -1,0 +1,129 @@
+{
+ "siteName": "Kerala Cafe News",
+ "updated": "2026-10-13T10:09:25.650534+00:00",
+ "items": [
+  {
+   "title": "Sample headline: Kerala news will appear here",
+   "link": "https://example.com/sample-0",
+   "snippet": "Placeholder text. After the first update, real Malayalam headlines from your feeds replace these samples.",
+   "image": "",
+   "source": "Sample Source",
+   "category": "Kerala",
+   "published": "2026-10-13T10:06:25.650534+00:00",
+   "coverage": 2,
+   "also": [
+    {
+     "source": "Sample Two",
+     "link": "https://example.com/also-0"
+    }
+   ],
+   "hot": 9.983
+  },
+  {
+   "title": "Sample headline: national story reported by several outlets",
+   "link": "https://example.com/sample-1",
+   "snippet": "Placeholder text. After the first update, real Malayalam headlines from your feeds replace these samples.",
+   "image": "",
+   "source": "Sample Source",
+   "category": "India",
+   "published": "2026-10-13T09:49:25.650534+00:00",
+   "coverage": 3,
+   "also": [
+    {
+     "source": "Sample Two",
+     "link": "https://example.com/also-1"
+    }
+   ],
+   "hot": 12.886
+  },
+  {
+   "title": "Sample headline: Kerala Blasters fixture update",
+   "link": "https://example.com/sample-2",
+   "snippet": "Placeholder text. After the first update, real Malayalam headlines from your feeds replace these samples.",
+   "image": "",
+   "source": "Sample Source",
+   "category": "Sports",
+   "published": "2026-10-13T09:24:25.650534+00:00",
+   "coverage": 1,
+   "also": [],
+   "hot": 6.748
+  },
+  {
+   "title": "Sample headline: new Malayalam film release",
+   "link": "https://example.com/sample-3",
+   "snippet": "Placeholder text. After the first update, real Malayalam headlines from your feeds replace these samples.",
+   "image": "",
+   "source": "Sample Source",
+   "category": "Cinema",
+   "published": "2026-10-13T08:49:25.650534+00:00",
+   "coverage": 1,
+   "also": [],
+   "hot": 6.564
+  },
+  {
+   "title": "Sample headline: today's Kerala lottery result",
+   "link": "https://example.com/sample-4",
+   "snippet": "Placeholder text. After the first update, real Malayalam headlines from your feeds replace these samples.",
+   "image": "",
+   "source": "Sample Source",
+   "category": "Lottery",
+   "published": "2026-10-13T08:29:25.650534+00:00",
+   "coverage": 1,
+   "also": [],
+   "hot": 6.462
+  },
+  {
+   "title": "Sample headline: gold price in Kerala today",
+   "link": "https://example.com/sample-5",
+   "snippet": "Placeholder text. After the first update, real Malayalam headlines from your feeds replace these samples.",
+   "image": "",
+   "source": "Sample Source",
+   "category": "Business",
+   "published": "2026-10-13T07:59:25.650534+00:00",
+   "coverage": 2,
+   "also": [
+    {
+     "source": "Sample Two",
+     "link": "https://example.com/also-5"
+    }
+   ],
+   "hot": 9.315
+  },
+  {
+   "title": "Sample headline: Gulf news for Malayalis",
+   "link": "https://example.com/sample-6",
+   "snippet": "Placeholder text. After the first update, real Malayalam headlines from your feeds replace these samples.",
+   "image": "",
+   "source": "Sample Source",
+   "category": "World",
+   "published": "2026-10-13T06:49:25.650534+00:00",
+   "coverage": 1,
+   "also": [],
+   "hot": 5.997
+  },
+  {
+   "title": "Sample headline: health advisory for monsoon",
+   "link": "https://example.com/sample-7",
+   "snippet": "Placeholder text. After the first update, real Malayalam headlines from your feeds replace these samples.",
+   "image": "",
+   "source": "Sample Source",
+   "category": "Health",
+   "published": "2026-10-13T03:29:25.650534+00:00",
+   "coverage": 1,
+   "also": [],
+   "hot": 5.245
+  },
+  {
+   "title": "Sample headline: local body update",
+   "link": "https://example.com/sample-8",
+   "snippet": "Placeholder text. After the first update, real Malayalam headlines from your feeds replace these samples.",
+   "image": "",
+   "source": "Sample Source",
+   "category": "Kerala",
+   "published": "2026-10-13T00:09:25.650534+00:00",
+   "coverage": 1,
+   "also": [],
+   "hot": 4.682
+  }
+ ]
+}

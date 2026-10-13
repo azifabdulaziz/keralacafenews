@@ -1,0 +1,38 @@
+{
+  "siteName": "Kerala Cafe News",
+  "feeds": [
+    { "source": "Asianet News", "category": "Kerala", "url": "https://www.asianetnews.com/rss" },
+    { "source": "Mathrubhumi", "category": "Kerala", "url": "https://www.mathrubhumi.com/rss/latest-news" },
+    { "source": "Mathrubhumi", "category": "Kerala", "url": "https://www.mathrubhumi.com/sitemaps/mathrubhumi/rss" }
+  ],
+  "urlCategoryMap": [
+    ["lottery", "Lottery"],
+    ["biggboss", "Cinema"],
+    ["entertainment", "Cinema"],
+    ["movie", "Cinema"],
+    ["cinema", "Cinema"],
+    ["sport", "Sports"],
+    ["cricket", "Sports"],
+    ["football", "Sports"],
+    ["business", "Business"],
+    ["finance", "Business"],
+    ["health", "Health"],
+    ["technology", "Tech"],
+    ["/tech", "Tech"],
+    ["gulf", "Gulf"],
+    ["pravasi", "Gulf"],
+    ["world", "World"],
+    ["india-news", "India"],
+    ["/india", "India"],
+    ["kerala", "Kerala"],
+    ["local-news", "Kerala"]
+  ],
+  "maxItemsPerFeed": 30,
+  "maxSnippetChars": 220,
+  "hot": {
+    "similarity": 0.3,
+    "sourceWeight": 3,
+    "recencyWeight": 4,
+    "recencyHalfLifeHours": 8
+  }
+}

@@ -1,0 +1,245 @@
+<!doctype html>
+<html lang="ml">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Kerala Cafe News – കേരള വാർത്തകൾ | Malayalam News Today</title>
+<meta name="description" content="കേരളത്തിലെ ഏറ്റവും പുതിയ വാർത്തകളും ഹോട്ട് ന്യൂസും. Latest Kerala Malayalam news headlines from trusted sources, updated every 30 minutes.">
+<link rel="canonical" href="https://keralacafenews.com/">
+<meta property="og:title" content="Kerala Cafe News – കേരള വാർത്തകൾ">
+<meta property="og:description" content="Latest and hot Kerala news headlines in Malayalam, updated every 30 minutes.">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://keralacafenews.com/">
+<meta name="twitter:card" content="summary">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+Malayalam:wght@400;600;700;800&display=swap" rel="stylesheet">
+
+<!-- ADS: paste your AdSense script here once approved
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-XXXXXXXXXXXXXXXX" crossorigin="anonymous"></script>
+-->
+
+<style>
+:root{
+  --bg:#f5f7f2; --card:#ffffff; --ink:#17201a; --muted:#5f6b62; --line:#dfe5da; --accent:#0f7b4a; --accent-ink:#fff; --chip:#e8eee4; --hot:#d9480f;
+}
+@media (prefers-color-scheme:dark){
+  :root{--bg:#101512; --card:#171e19; --ink:#edf2ec; --muted:#9aa89d; --line:#26302a; --accent:#34d399; --accent-ink:#06210f; --chip:#1f2923; --hot:#fb923c;}
+}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.6 "Noto Sans Malayalam",system-ui,-apple-system,"Segoe UI",Roboto,sans-serif}
+a{color:inherit}
+.wrap{max-width:1080px;margin:0 auto;padding:0 16px}
+header{border-bottom:3px solid var(--accent);background:var(--bg);position:sticky;top:0;z-index:5}
+.top{display:flex;align-items:baseline;justify-content:space-between;gap:12px;padding:12px 0 4px}
+.logo{font-weight:800;font-size:26px;line-height:1.1;letter-spacing:-.3px;text-decoration:none}
+.logo span{color:var(--accent)}
+.updated{font-size:12px;color:var(--muted)}
+.tools{display:flex;gap:10px;align-items:center;padding:6px 0 10px;flex-wrap:wrap}
+.tabs{display:flex;gap:6px;overflow-x:auto;flex:1 1 100%;scrollbar-width:none}
+.tabs::-webkit-scrollbar{display:none}
+.tab,.sort button{border:0;background:var(--chip);color:var(--ink);padding:6px 14px;border-radius:99px;font:600 14px "Noto Sans Malayalam",system-ui;cursor:pointer;white-space:nowrap}
+.tab[aria-pressed=true]{background:var(--accent);color:var(--accent-ink)}
+.sort{display:flex;gap:6px}
+.sort button[aria-pressed=true]{background:var(--ink);color:var(--bg)}
+.sort button.hotbtn[aria-pressed=true]{background:var(--hot);color:#fff}
+#q{border:1px solid var(--line);background:var(--card);color:var(--ink);padding:7px 12px;border-radius:8px;font:14px "Noto Sans Malayalam",system-ui;flex:1;min-width:140px;max-width:260px;margin-left:auto}
+.ad{margin:18px 0;border:1px dashed var(--line);border-radius:8px;min-height:90px;display:flex;align-items:center;justify-content:center;color:var(--muted);font-size:12px;text-align:center;padding:8px}
+.layout{display:grid;grid-template-columns:1fr 300px;gap:24px;margin-top:8px}
+@media(max-width:860px){.layout{grid-template-columns:1fr}.side{display:none}}
+.hero{display:grid;grid-template-columns:1.3fr 1fr;background:var(--card);border:1px solid var(--line);border-radius:12px;overflow:hidden;margin-top:18px}
+@media(max-width:640px){.hero{grid-template-columns:1fr}}
+.hero img{width:100%;height:100%;min-height:220px;object-fit:cover;display:block;background:var(--chip)}
+.hero .body{padding:20px}
+.hero h2{font-weight:800;font-size:24px;line-height:1.4;margin:8px 0 10px}
+.hero h2 a{text-decoration:none}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(250px,1fr));gap:16px;margin-top:18px}
+.card{background:var(--card);border:1px solid var(--line);border-radius:12px;overflow:hidden;display:flex;flex-direction:column}
+.card img{width:100%;aspect-ratio:16/9;object-fit:cover;display:block;background:var(--chip)}
+.card .body{padding:14px;display:flex;flex-direction:column;gap:8px;flex:1}
+.card h3{font-weight:700;font-size:17px;line-height:1.5;margin:0}
+.card h3 a{text-decoration:none}
+.card h3 a:hover,.hero h2 a:hover{text-decoration:underline}
+.meta{font-size:12px;color:var(--muted);display:flex;gap:8px;flex-wrap:wrap;align-items:center}
+.badge{background:var(--chip);color:var(--ink);padding:1px 9px;border-radius:99px;font-weight:600}
+.fire{background:var(--hot);color:#fff;padding:1px 9px;border-radius:99px;font-weight:700}
+.snip{font-size:14px;color:var(--muted);margin:0}
+.also{font-size:12px;color:var(--muted)}
+.also a{color:var(--accent);font-weight:600}
+.actions{margin-top:auto;display:flex;gap:10px;align-items:center;justify-content:space-between;padding-top:6px;font-size:13px;flex-wrap:wrap}
+.read{color:var(--accent);font-weight:700;text-decoration:none}
+.read:hover{text-decoration:underline}
+.share{display:flex;gap:8px}
+.share a{font:600 12px system-ui;color:var(--muted);text-decoration:none}
+.share a:hover{color:var(--ink)}
+.side h4{font-weight:800;font-size:16px;margin:18px 0 8px;border-bottom:3px solid var(--accent);padding-bottom:6px}
+.side h4.hot{border-color:var(--hot)}
+.latest{list-style:none;margin:0;padding:0}
+.latest li{padding:9px 0;border-bottom:1px solid var(--line);font-size:14px;line-height:1.5}
+.latest a{text-decoration:none;font-weight:600}
+.latest a:hover{text-decoration:underline}
+.latest .meta{margin-top:2px}
+.empty{padding:40px 0;text-align:center;color:var(--muted)}
+footer{margin:40px 0 24px;padding-top:18px;border-top:1px solid var(--line);color:var(--muted);font-size:13px}
+footer a{color:var(--muted)}
+</style>
+</head>
+<body>
+<header>
+  <div class="wrap">
+    <div class="top">
+      <a class="logo" href="./">Kerala<span>Cafe</span> News</a>
+      <div class="updated" id="updated"></div>
+    </div>
+    <div class="tools">
+      <div class="tabs" id="tabs" role="toolbar" aria-label="വിഭാഗങ്ങൾ"></div>
+      <div class="sort" id="sort" role="group" aria-label="Sort">
+        <button data-s="latest" aria-pressed="true">പുതിയത് · Latest</button>
+        <button data-s="hot" class="hotbtn" aria-pressed="false">🔥 ഹോട്ട് · Hot</button>
+      </div>
+      <input id="q" type="search" placeholder="വാർത്തകൾ തിരയുക…" aria-label="Search">
+    </div>
+  </div>
+</header>
+
+<main class="wrap">
+  <!-- AD SLOT 1: leaderboard (728x90 / responsive) -->
+  <div class="ad" id="ad-top">Ad space – paste your ad code here</div>
+
+  <div class="layout">
+    <section>
+      <div id="hero"></div>
+      <div class="grid" id="grid"></div>
+      <div class="empty" id="empty" hidden>വാർത്തകൾ ഒന്നും കണ്ടെത്തിയില്ല.</div>
+    </section>
+    <aside class="side">
+      <!-- AD SLOT 2: sidebar rectangle (300x250) -->
+      <div class="ad" style="min-height:250px" id="ad-side">Ad space – paste your ad code here</div>
+      <h4 class="hot">🔥 ഹോട്ട് ന്യൂസ്</h4>
+      <ul class="latest" id="hotlist"></ul>
+      <h4>പുതിയ വാർത്തകൾ</h4>
+      <ul class="latest" id="latest"></ul>
+    </aside>
+  </div>
+</main>
+
+<footer class="wrap">
+  <p>Kerala Cafe News (keralacafenews.com) is a headline aggregator. Headlines and short previews belong to their publishers and link to the original articles. We do not copy full stories. "Hot" shows stories reported by several outlets recently.</p>
+  <p><a href="#">About</a> · <a href="#">Privacy Policy</a> · <a href="#">Contact</a> · <a href="#">Disclaimer</a></p>
+</footer>
+
+<script>
+(function(){
+  var state={items:[],cat:'All',q:'',sort:'latest'};
+  var $=function(id){return document.getElementById(id)};
+
+  var CAT={All:'എല്ലാം',Kerala:'കേരളം',India:'ഇന്ത്യ',World:'ലോകം',Gulf:'ഗൾഫ്',Sports:'കായികം',Cinema:'സിനിമ',Business:'ബിസിനസ്',Health:'ആരോഗ്യം',Tech:'ടെക്',Lottery:'ലോട്ടറി',News:'വാർത്ത'};
+  var ORDER=['All','Kerala','India','World','Gulf','Sports','Cinema','Business','Tech','Health','Lottery'];
+  function catName(c){return CAT[c]||c}
+
+  function esc(s){var d=document.createElement('div');d.textContent=s==null?'':s;return d.innerHTML}
+  function ago(iso){
+    var s=(Date.now()-new Date(iso).getTime())/1000;
+    if(isNaN(s))return '';
+    if(s<3600)return Math.max(1,Math.round(s/60))+' മിനിറ്റ് മുമ്പ്';
+    if(s<86400)return Math.round(s/3600)+' മണിക്കൂർ മുമ്പ്';
+    return Math.round(s/86400)+' ദിവസം മുമ്പ്';
+  }
+  function safeUrl(u){return /^https?:\/\//i.test(u)?u:'#'}
+  function img(it){
+    if(!it.image)return '<div style="aspect-ratio:16/9;background:var(--chip)"></div>';
+    return '<img loading="lazy" referrerpolicy="no-referrer" src="'+esc(safeUrl(it.image))+'" alt="" onerror="this.style.visibility=\'hidden\'">';
+  }
+  function shareLinks(it){
+    var u=encodeURIComponent(it.link),t=encodeURIComponent(it.title);
+    return '<span class="share">'+
+      '<a target="_blank" rel="noopener" href="https://wa.me/?text='+t+'%20'+u+'">WhatsApp</a>'+
+      '<a target="_blank" rel="noopener" href="https://www.facebook.com/sharer/sharer.php?u='+u+'">Facebook</a>'+
+      '<a target="_blank" rel="noopener" href="https://twitter.com/intent/tweet?text='+t+'&url='+u+'">X</a>'+
+    '</span>';
+  }
+  function meta(it){
+    var hot=it.coverage>1?'<span class="fire">🔥 '+it.coverage+' ഉറവിടങ്ങൾ</span>':'';
+    return '<div class="meta">'+hot+'<span class="badge">'+esc(catName(it.category))+'</span><span>'+esc(it.source)+'</span><span>'+ago(it.published)+'</span></div>';
+  }
+  function also(it){
+    if(!it.also||!it.also.length)return '';
+    return '<div class="also">ഇതും വായിക്കാം: '+it.also.map(function(a){
+      return '<a target="_blank" rel="noopener nofollow" href="'+esc(safeUrl(a.link))+'">'+esc(a.source)+'</a>';
+    }).join(' · ')+'</div>';
+  }
+  function actions(it,style){
+    return '<div class="actions"'+(style?' style="'+style+'"':'')+'><a class="read" target="_blank" rel="noopener nofollow" href="'+esc(safeUrl(it.link))+'">'+esc(it.source)+'-ൽ വായിക്കുക →</a>'+shareLinks(it)+'</div>';
+  }
+  function card(it){
+    return '<article class="card">'+img(it)+'<div class="body">'+meta(it)+
+      '<h3><a href="'+esc(safeUrl(it.link))+'" target="_blank" rel="noopener nofollow">'+esc(it.title)+'</a></h3>'+
+      (it.snippet?'<p class="snip">'+esc(it.snippet)+'</p>':'')+also(it)+actions(it)+'</div></article>';
+  }
+  function hero(it){
+    return '<article class="hero">'+img(it)+'<div class="body">'+meta(it)+
+      '<h2><a href="'+esc(safeUrl(it.link))+'" target="_blank" rel="noopener nofollow">'+esc(it.title)+'</a></h2>'+
+      (it.snippet?'<p class="snip">'+esc(it.snippet)+'</p>':'')+also(it)+actions(it,'margin-top:14px')+'</div></article>';
+  }
+  function sideList(list){
+    return list.map(function(i){
+      return '<li><a href="'+esc(safeUrl(i.link))+'" target="_blank" rel="noopener nofollow">'+esc(i.title)+'</a><div class="meta"><span>'+esc(i.source)+'</span><span>'+ago(i.published)+'</span></div></li>';
+    }).join('');
+  }
+
+  function byLatest(a,b){return new Date(b.published)-new Date(a.published)}
+  function byHot(a,b){return (b.hot-a.hot)||byLatest(a,b)}
+
+  function render(){
+    var q=state.q.toLowerCase();
+    var list=state.items.filter(function(i){
+      return (state.cat==='All'||i.category===state.cat)&&(!q||(i.title+' '+i.snippet).toLowerCase().indexOf(q)>-1);
+    }).sort(state.sort==='hot'?byHot:byLatest);
+    $('empty').hidden=list.length>0;
+    $('hero').innerHTML=list.length?hero(list[0]):'';
+    var html='';
+    list.slice(1).forEach(function(it,idx){
+      html+=card(it);
+      if((idx+1)%8===0)html+='<div class="ad" style="grid-column:1/-1">Ad space – in-feed</div>';
+    });
+    $('grid').innerHTML=html;
+    $('hotlist').innerHTML=sideList(state.items.slice().sort(byHot).slice(0,6));
+    $('latest').innerHTML=sideList(state.items.slice().sort(byLatest).slice(0,8));
+  }
+
+  function buildTabs(){
+    var present={All:1};
+    state.items.forEach(function(i){present[i.category]=1});
+    var cats=ORDER.filter(function(c){return present[c]});
+    Object.keys(present).forEach(function(c){if(cats.indexOf(c)<0)cats.push(c)});
+    $('tabs').innerHTML=cats.map(function(c){
+      return '<button class="tab" data-c="'+esc(c)+'" aria-pressed="'+(c===state.cat)+'">'+esc(catName(c))+'</button>';
+    }).join('');
+  }
+
+  $('tabs').addEventListener('click',function(e){
+    var b=e.target.closest('.tab');if(!b)return;
+    state.cat=b.getAttribute('data-c');
+    [].forEach.call($('tabs').children,function(x){x.setAttribute('aria-pressed',x===b)});
+    render();
+  });
+  $('sort').addEventListener('click',function(e){
+    var b=e.target.closest('button');if(!b)return;
+    state.sort=b.getAttribute('data-s');
+    [].forEach.call($('sort').children,function(x){x.setAttribute('aria-pressed',x===b)});
+    render();
+  });
+  $('q').addEventListener('input',function(e){state.q=e.target.value;render()});
+
+  fetch('news.json?'+Math.floor(Date.now()/600000))
+    .then(function(r){return r.json()})
+    .then(function(d){
+      state.items=d.items||[];
+      if(d.updated)$('updated').textContent='അപ്ഡേറ്റ്: '+ago(d.updated);
+      buildTabs();render();
+    })
+    .catch(function(){$('empty').hidden=false;$('empty').textContent='വാർത്തകൾ ലോഡ് ചെയ്യാൻ കഴിഞ്ഞില്ല. അല്പം കഴിഞ്ഞ് വീണ്ടും ശ്രമിക്കുക.'});
+})();
+</script>
+</body>
+</html>
