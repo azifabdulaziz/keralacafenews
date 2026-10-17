@@ -1,7 +1,487 @@
 {
  "siteName": "Kerala Cafe News",
- "updated": "2026-10-17T21:36:46.916147+00:00",
+ "updated": "2026-10-17T23:47:14.720403+00:00",
  "items": [
+  {
+   "title": "9 At Nine Malayalam News | വാർത്തകൾ വിശദമായി | 17 October 2026",
+   "link": "https://www.asianetnews.com/videos/news/9-at-nine-in-depth-malayalam-news-october-17-2026-videoshow-8uw7ta7",
+   "snippet": "<p>Asianet News Live : https://youtube.com/live/s0LLVQeMmtU 9 At Nine Malayalam News | വാർത്തകൾ വിശദമായി | 17 October 2026</p>",
+   "image": "https://geo.dailymotion.com/player/x1tbu.html?video=xbp5td2",
+   "source": "Asianet News",
+   "category": "Kerala",
+   "published": "2026-10-17T23:35:27+00:00",
+   "coverage": 1,
+   "also": [],
+   "hot": 6.932
+  },
+  {
+   "title": "പടിക്കൽ സമൻസ്, പിടിമുറുക്കുന്നോ ഇഡി?| P G Suresh Kumar | News Hour 17 Oct 2026",
+   "link": "https://www.asianetnews.com/videos/news/ed-summons-for-p-g-suresh-kumar-probe-intensifies-videoshow-c33ch9l",
+   "snippet": "<p>പിണറായി ചോദ്യം ചെയ്യലിനെത്തുമോ? അന്വേഷണം തടയാൻ തിടുക്കം കാട്ടുന്നോ?| News Hour 17 Oct 2026</p>",
+   "image": "https://geo.dailymotion.com/player/x1tbu.html?video=xbp5t06",
+   "source": "Asianet News",
+   "category": "Kerala",
+   "published": "2026-10-17T23:33:12+00:00",
+   "coverage": 1,
+   "also": [],
+   "hot": 6.92
+  },
+  {
+   "title": "കൊച്ചിയിൽ ഒഡീഷ സ്വദേശിയുടെ മൃതദേഹം റെയിൽ പാളത്തിൽ; ഭാര്യയെ അറസ്റ്റ് ചെയ്‌ത്‌ പൊലീസ്| Kochi",
+   "link": "https://www.asianetnews.com/videos/news/wife-arrested-after-odisha-man-found-dead-on-kochi-tracks-videoshow-61xmtqo",
+   "snippet": "<p>കൊച്ചിയിൽ ഒഡീഷ സ്വദേശിയുടെ മൃതദേഹം റെയിൽ പാളത്തിൽ; സംഭവത്തിൽ ഭാര്യയെ അറസ്റ്റ് ചെയ്‌ത്‌ പൊലീസ്; മകളെ ഉപദ്രവിച്ചെന്ന് മൊഴി</p>",
+   "image": "https://geo.dailymotion.com/player/x1tbu.html?video=xbp6nzi",
+   "source": "Asianet News",
+   "category": "Kerala",
+   "published": "2026-10-17T23:32:48+00:00",
+   "coverage": 1,
+   "also": [],
+   "hot": 6.917
+  },
+  {
+   "title": "എൽ.ഡി.എഫ്. പാർലമെന്ററിപാർട്ടി യോഗം; സിപിഎം വിളിച്ചു, വേണ്ടെന്ന് സിപിഐ",
+   "link": "https://www.mathrubhumi.com/news/kerala/cpm-cpi-rift-kerala-ldf-opposition-dispute-eoniiezj",
+   "snippet": "",
+   "image": "https://img.mathrubhumi.com/view/acePublic/alias/contentid/1uihoasvvjegt5ilcov/0/cpm-cpi.webp?f=16:9&w=900&q=0.8",
+   "source": "Mathrubhumi",
+   "category": "Kerala",
+   "published": "2026-10-17T23:24:36+00:00",
+   "coverage": 1,
+   "also": [],
+   "hot": 6.871
+  },
+  {
+   "title": "വെസ്റ്റ് ബാങ്കിൽ യൂറോപ്യൻ നയതന്ത്രജ്ഞർക്ക് നേരെ ആക്രമണവുമായി ഇസ്രയേൽ കുടിയേറ്റക്കാർ",
+   "link": "https://www.asianetnews.com/international-news/israeli-settler-militants-attacked-european-diplomats-in-west-bank-articleshow-b9viieh",
+   "snippet": "പലസ്തീൻകാർ സ്വന്തം ഭൂമിയിൽ നിന്ന് ഒലിവ് വിളവെടുക്കുന്നത് തടയാൻ നടക്കുന്ന ശ്രമങ്ങളുടെ ഭാഗമാണ് അക്രമണം",
+   "image": "https://static.asianetnews.com/images/w-1280,h-720,format-jpg,imgid-01m55yvrn0qh9maa0ga7r9v212,imgname-west-bank-attack-1792275243680.jpg",
+   "source": "Asianet News",
+   "category": "Kerala",
+   "published": "2026-10-17T23:17:40+00:00",
+   "coverage": 1,
+   "also": [],
+   "hot": 6.833
+  },
+  {
+   "title": "എഫ്.ഐ.ആർ. പിണറായിക്കെതിരേ, കലഹം കോൺഗ്രസിൽ",
+   "link": "https://www.mathrubhumi.com/news/kerala/cmrl-exalogic-row-congress-internal-conflict-pinarayi-vijayan-fir-otvihxi8",
+   "snippet": "",
+   "image": "https://img.mathrubhumi.com/view/acePublic/alias/contentid/1uih8i8eafnaboxhffa/0/pinarayi-vijayan-4-jpg.webp?f=16:9&w=900&q=0.8",
+   "source": "Mathrubhumi",
+   "category": "Kerala",
+   "published": "2026-10-17T23:04:04+00:00",
+   "coverage": 1,
+   "also": [],
+   "hot": 6.758
+  },
+  {
+   "title": "കരാർ ജാസ്മിൻ ഗ്രൂപ്പിന്; വർഷങ്ങൾ നീണ്ട കാത്തിരിപ്പ്: നീലേശ്വരം-എടത്തോട് റോഡിന് ശാപമോക്ഷം",
+   "link": "https://www.mathrubhumi.com/kasaragod/news/localnews-kasaragod-ps8xqxmn",
+   "snippet": "",
+   "image": "https://img.mathrubhumi.com/view/acePublic/alias/contentid/1uih4ad3jaqjsoqoxn7/0/desk-3554211427846612332jpg.jpg?w=384",
+   "source": "Mathrubhumi",
+   "category": "Kerala",
+   "published": "2026-10-17T23:01:03+00:00",
+   "coverage": 1,
+   "also": [],
+   "hot": 6.742
+  },
+  {
+   "title": "കെട്ടിക്കിടക്കുന്ന ഫയലുകൾ ഡിസംബർ 31-നകം തീർപ്പാക്കണം -കെ.എ. തുളസി",
+   "link": "https://www.mathrubhumi.com/kasaragod/news/localnews-kasaragod-gyy220zn",
+   "snippet": "",
+   "image": "https://img.mathrubhumi.com/view/acePublic/alias/contentid/1uih61z4ey0zdsn4ktb/0/desk-1333460681828760472jpg.jpg?w=384",
+   "source": "Mathrubhumi",
+   "category": "Kerala",
+   "published": "2026-10-17T23:00:26+00:00",
+   "coverage": 1,
+   "also": [],
+   "hot": 6.739
+  },
+  {
+   "title": "നടപ്പാക്കുന്നത് ഹ്രസ്വ, ദീർഘകാല പദ്ധതികൾ; മൂന്നാംകടവിനെ അപകടമുക്തമാക്കാൻ നടപടി",
+   "link": "https://www.mathrubhumi.com/kasaragod/news/localnews-kasaragod-f29615ac",
+   "snippet": "",
+   "image": "https://img.mathrubhumi.com/view/acePublic/alias/contentid/1uih59ge490ltmckl14/0/desk-9042924991638829519jpg.jpg?w=384",
+   "source": "Mathrubhumi",
+   "category": "Kerala",
+   "published": "2026-10-17T22:59:58+00:00",
+   "coverage": 1,
+   "also": [],
+   "hot": 6.736
+  },
+  {
+   "title": "തുലാസംക്രമനാളിൽ മുജങ്കാവിൽതീർഥസ്നാനത്തിനായി ആയിരങ്ങൾ",
+   "link": "https://www.mathrubhumi.com/kasaragod/news/localnews-kasaragod-xoghbq5z",
+   "snippet": "",
+   "image": "https://img.mathrubhumi.com/view/acePublic/alias/contentid/1uih5o286m0pt0swu6l/0/desk-5115406223594483755jpg.jpg?w=384",
+   "source": "Mathrubhumi",
+   "category": "Kerala",
+   "published": "2026-10-17T22:59:18+00:00",
+   "coverage": 1,
+   "also": [],
+   "hot": 6.732
+  },
+  {
+   "title": "ശാരദാമഹോത്സവത്തിന് തുടക്കമായി",
+   "link": "https://www.mathrubhumi.com/kasaragod/news/localnews-kasaragod-brit3m2d",
+   "snippet": "",
+   "image": "https://img.mathrubhumi.com/view/acePublic/alias/contentid/1uih6ltq3kw61264hvl/0/desk-5415201507887828243jpg.jpg?w=384",
+   "source": "Mathrubhumi",
+   "category": "Kerala",
+   "published": "2026-10-17T22:58:55+00:00",
+   "coverage": 1,
+   "also": [],
+   "hot": 6.73
+  },
+  {
+   "title": "‘എന്റെ കൺമുന്നിൽ വെച്ചാണ് അമ്മ മരിച്ചത്’; മഴ പെയ്തതോടെ ആളുകൾ തള്ളിക്കയറി, ജീവൻ നഷ്ടപ്പെട്ടത് 19 പേർക്ക്",
+   "link": "https://www.mathrubhumi.com/news/india/kolkata-durga-puja-stampede-chorbagan-tragedy-f0z2wmex",
+   "snippet": "ദുർഗാപൂജ പരിപാടിക്കിടെ മഴപെയ്തതോടെ ചോർബഗാൻ ദുർഗാപൂജ പന്തലിനുപുറത്ത്‌ നിൽക്കുകയാായിരുന്ന വൻ ജനക്കൂട്ടം പന്തലിനകത്തേക്കുകയറിയതാണ് അപകടത്തിന് വഴിവെച്ചത്.",
+   "image": "https://img.mathrubhumi.com/view/acePublic/alias/contentid/1uigrd1ars6j3iulvf7/0/pti10_17_2026_000525b.webp?f=16:9&w=900&q=0.8",
+   "source": "Mathrubhumi",
+   "category": "India",
+   "published": "2026-10-17T22:55:05+00:00",
+   "coverage": 1,
+   "also": [],
+   "hot": 6.71
+  },
+  {
+   "title": "പാലം വന്ന് 12 വർഷം കഴിഞ്ഞിട്ടും കല്ലൻചിറയുടെ സ്വപ്നം പാതിവഴിയിൽ",
+   "link": "https://www.mathrubhumi.com/kannur/news/localnews-kasaragod-y0bgxqxe",
+   "snippet": "",
+   "image": "https://img.mathrubhumi.com/view/acePublic/alias/contentid/1uigtphufo1yi053urr/0/desk-5785275578610686018jpg.jpg?w=384",
+   "source": "Mathrubhumi",
+   "category": "Kerala",
+   "published": "2026-10-17T22:51:51+00:00",
+   "coverage": 1,
+   "also": [],
+   "hot": 6.692
+  },
+  {
+   "title": "ചെറുകുന്ന് മുട്ടിൽ അണക്കെട്ടിന്റെ സ്ലാബുകൾ തകർന്നുവീണു",
+   "link": "https://www.mathrubhumi.com/kannur/news/localnews-kasaragod-vtzsqkda",
+   "snippet": "",
+   "image": "https://img.mathrubhumi.com/view/acePublic/alias/contentid/1uigte68vb5txwj431x/0/desk-8791015719551058553jpg.jpg?w=384",
+   "source": "Mathrubhumi",
+   "category": "Kerala",
+   "published": "2026-10-17T22:51:23+00:00",
+   "coverage": 1,
+   "also": [],
+   "hot": 6.69
+  },
+  {
+   "title": "മാഹി തിരുനാളിൽ ഭക്തജനത്തിരക്ക്",
+   "link": "https://www.mathrubhumi.com/kannur/news/localnews-kasaragod-u3896c1j",
+   "snippet": "",
+   "image": "https://img.mathrubhumi.com/view/acePublic/alias/contentid/1uiguo52coghf53lahu/0/desk-1033082811738387798jpg.jpg?w=384",
+   "source": "Mathrubhumi",
+   "category": "Kerala",
+   "published": "2026-10-17T22:50:40+00:00",
+   "coverage": 1,
+   "also": [],
+   "hot": 6.686
+  },
+  {
+   "title": "റെയിൽവേ സ്റ്റേഷന് സമീപത്തെ നടപ്പാതയിലെ അനധികൃത നിർമാണം നിർത്തിവെപ്പിച്ച് എം.എൽ.എ.",
+   "link": "https://www.mathrubhumi.com/kannur/news/localnews-kasaragod-gm9slaqg",
+   "snippet": "",
+   "image": "https://img.mathrubhumi.com/view/acePublic/alias/contentid/1uigv6qvrmhjl51811h/0/desk-2614627712001790085jpg.jpg?w=384",
+   "source": "Mathrubhumi",
+   "category": "Kerala",
+   "published": "2026-10-17T22:45:51+00:00",
+   "coverage": 1,
+   "also": [],
+   "hot": 6.661
+  },
+  {
+   "title": "ധർമശാലയിൽ ബസ്ബേക്ക് സാധ്യത തെളിഞ്ഞു; കെ.എ.പി. സ്ഥലം വിട്ടുകൊടുക്കും",
+   "link": "https://www.mathrubhumi.com/kannur/news/localnews-kasaragod-qgcq28dp",
+   "snippet": "",
+   "image": "https://img.mathrubhumi.com/view/acePublic/alias/contentid/1uigu7x1pe4xb2no6n9/0/desk-7163062911162171586jpg.jpg?w=384",
+   "source": "Mathrubhumi",
+   "category": "Kerala",
+   "published": "2026-10-17T22:45:06+00:00",
+   "coverage": 1,
+   "also": [],
+   "hot": 6.657
+  },
+  {
+   "title": "റോഡ് ചെളിക്കുളമായി",
+   "link": "https://www.mathrubhumi.com/kannur/news/localnews-kasaragod-kumcnsk0",
+   "snippet": "",
+   "image": "https://img.mathrubhumi.com/view/acePublic/alias/contentid/1uigsrst7hgq1auzjex/0/desk-1344856676480913324jpg.jpg?w=384",
+   "source": "Mathrubhumi",
+   "category": "Kerala",
+   "published": "2026-10-17T22:43:47+00:00",
+   "coverage": 1,
+   "also": [],
+   "hot": 6.65
+  },
+  {
+   "title": "തകർത്തു, തൂക്കുവേലിയും",
+   "link": "https://www.mathrubhumi.com/wayanad/news/localnews-wayanad-je1yioy3",
+   "snippet": "",
+   "image": "https://img.mathrubhumi.com/view/acePublic/alias/contentid/1uigpat21cq34qs05t7/0/desk-5674334312960714862jpg.jpg?w=384",
+   "source": "Mathrubhumi",
+   "category": "Kerala",
+   "published": "2026-10-17T22:36:41+00:00",
+   "coverage": 1,
+   "also": [],
+   "hot": 6.612
+  },
+  {
+   "title": "നാടിന്റെ സ്നേഹമേറ്റുവാങ്ങി ടി.എസ്. മനു",
+   "link": "https://www.mathrubhumi.com/wayanad/news/localnews-wayanad-nsnjzenq",
+   "snippet": "",
+   "image": "https://img.mathrubhumi.com/view/acePublic/alias/contentid/1uigpbmv2497w76kfnc/0/desk-6845811712501202648jpg.jpg?w=384",
+   "source": "Mathrubhumi",
+   "category": "Kerala",
+   "published": "2026-10-17T22:35:59+00:00",
+   "coverage": 1,
+   "also": [],
+   "hot": 6.609
+  },
+  {
+   "title": "നവരാത്രി പ്രഭയിൽ...",
+   "link": "https://www.mathrubhumi.com/wayanad/news/localnews-wayanad-q46knzyn",
+   "snippet": "",
+   "image": "https://img.mathrubhumi.com/view/acePublic/alias/contentid/1uigpcfih16o3qwiaik/0/desk-1658065634428049401jpg.jpg?w=384",
+   "source": "Mathrubhumi",
+   "category": "Kerala",
+   "published": "2026-10-17T22:35:22+00:00",
+   "coverage": 1,
+   "also": [],
+   "hot": 6.606
+  },
+  {
+   "title": "സ്വകാര്യബസും ട്രക്കും കൂട്ടിയിടിച്ചു",
+   "link": "https://www.mathrubhumi.com/wayanad/news/localnews-wayanad-e4tfp9jt",
+   "snippet": "",
+   "image": "https://img.mathrubhumi.com/view/acePublic/alias/contentid/1uigpbw7764dhpb77tt/0/desk-7667649246459446655jpg.jpg?w=384",
+   "source": "Mathrubhumi",
+   "category": "Kerala",
+   "published": "2026-10-17T22:34:40+00:00",
+   "coverage": 1,
+   "also": [],
+   "hot": 6.602
+  },
+  {
+   "title": "മുണ്ടേരി ജി.വി.എച്ച്.എസ്.എസിൽ ഓപ്പൺസ്റ്റേജിന് തറക്കല്ലിട്ടു",
+   "link": "https://www.mathrubhumi.com/wayanad/news/localnews-wayanad-lza63ejw",
+   "snippet": "",
+   "image": "https://img.mathrubhumi.com/view/acePublic/alias/contentid/1uigpdlme0ml35kn7c4/0/desk-729384411950047486jpg.jpg?w=384",
+   "source": "Mathrubhumi",
+   "category": "Kerala",
+   "published": "2026-10-17T22:34:12+00:00",
+   "coverage": 1,
+   "also": [],
+   "hot": 6.6
+  },
+  {
+   "title": "ദുരിതം മാറ്റാൻ നവീകരണപ്രവൃത്തി വേഗം കൂട്ടണം",
+   "link": "https://www.mathrubhumi.com/kozhikode/news/localnews-kozhikode-q8s8aklh",
+   "snippet": "",
+   "image": "https://img.mathrubhumi.com/view/acePublic/alias/contentid/1uigj19p11dgmzjpzra/0/desk-7276726174054959108jpg.jpg?w=384",
+   "source": "Mathrubhumi",
+   "category": "Kerala",
+   "published": "2026-10-17T22:28:58+00:00",
+   "coverage": 1,
+   "also": [],
+   "hot": 6.572
+  },
+  {
+   "title": "ഒറ്റമഴയിൽ വെള്ളക്കെട്ട്",
+   "link": "https://www.mathrubhumi.com/kozhikode/news/localnews-kozhikode-pjd4otib",
+   "snippet": "",
+   "image": "https://img.mathrubhumi.com/view/acePublic/alias/contentid/1uigirv4dsy6izr9z97/0/desk-4198251641682991238jpg.jpg?w=384",
+   "source": "Mathrubhumi",
+   "category": "Kerala",
+   "published": "2026-10-17T22:28:12+00:00",
+   "coverage": 1,
+   "also": [],
+   "hot": 6.569
+  },
+  {
+   "title": "ഇത് മോദിഭരണകൂടത്തെ താഴെയിറക്കാനുള്ള പോരാട്ടം -‘ജന്തർമന്തർ’ സമരത്തിൽ പ്രകാശ്‌രാജ്",
+   "link": "https://www.mathrubhumi.com/kozhikode/news/localnews-kozhikode-p8fhzkjv",
+   "snippet": "",
+   "image": "https://img.mathrubhumi.com/view/acePublic/alias/contentid/1uigjrqrz7i9pdys33p/0/desk-1835800303805091480jpg.jpg?w=384",
+   "source": "Mathrubhumi",
+   "category": "Kerala",
+   "published": "2026-10-17T22:27:39+00:00",
+   "coverage": 1,
+   "also": [],
+   "hot": 6.566
+  },
+  {
+   "title": "മണിയൂർ പോക്സോ കേസ് പോലീസ് സ്റ്റേഷൻ മാർച്ചിൽ സംഘർഷം",
+   "link": "https://www.mathrubhumi.com/kozhikode/news/localnews-kozhikode-gc0z3i6u",
+   "snippet": "",
+   "image": "https://img.mathrubhumi.com/view/acePublic/alias/contentid/1uigii4opwce1rdyups/0/desk-1988234613329430679jpg.jpg?w=384",
+   "source": "Mathrubhumi",
+   "category": "Kerala",
+   "published": "2026-10-17T22:27:08+00:00",
+   "coverage": 1,
+   "also": [],
+   "hot": 6.563
+  },
+  {
+   "title": "ഐ.എം.എ. സി.ജി.പി. പ്രവർത്തനങ്ങൾ ഉദ്ഘാടനംചെയ്തു",
+   "link": "https://www.mathrubhumi.com/kozhikode/news/localnews-kozhikode-c5473b2e",
+   "snippet": "",
+   "image": "https://img.mathrubhumi.com/view/acePublic/alias/contentid/1uigk3ys6hsb5qxn8yg/0/desk-6606340861064325015jpg.jpg?w=384",
+   "source": "Mathrubhumi",
+   "category": "Kerala",
+   "published": "2026-10-17T22:26:38+00:00",
+   "coverage": 1,
+   "also": [],
+   "hot": 6.56
+  },
+  {
+   "title": "വർഷങ്ങളുടെ കാത്തിരിപ്പിന് വിരാമം; താലൂക്ക് ആശുപത്രിയാകാൻ പുറത്തൂർ സി.എച്ച്.സി.",
+   "link": "https://www.mathrubhumi.com/malappuram/news/localnews-malappuram-sbiqyvz5",
+   "snippet": "",
+   "image": "https://img.mathrubhumi.com/view/acePublic/alias/contentid/1uigcqcgwdjfiu35zzl/0/desk-139318835252995590jpg.jpg?w=384",
+   "source": "Mathrubhumi",
+   "category": "Kerala",
+   "published": "2026-10-17T22:20:42+00:00",
+   "coverage": 1,
+   "also": [],
+   "hot": 6.53
+  },
+  {
+   "title": "മലപ്പുറത്തിനോടുള്ള അവഗണന അവസാനിപ്പിക്കും - മന്ത്രി",
+   "link": "https://www.mathrubhumi.com/malappuram/news/localnews-malappuram-b7pr2llc",
+   "snippet": "",
+   "image": "https://img.mathrubhumi.com/view/acePublic/alias/contentid/1uigbxizjqfd94qj9yf/0/desk-8268621140971694619jpg.jpg?w=384",
+   "source": "Mathrubhumi",
+   "category": "Kerala",
+   "published": "2026-10-17T22:20:11+00:00",
+   "coverage": 1,
+   "also": [],
+   "hot": 6.527
+  },
+  {
+   "title": "വലിയങ്ങാടിയിലെ 110 വർഷം പഴക്കമുള്ള കിണർ ഇടിഞ്ഞുതാഴ്‌ന്നു",
+   "link": "https://www.mathrubhumi.com/malappuram/news/localnews-malappuram-cp3gvxdo",
+   "snippet": "",
+   "image": "https://img.mathrubhumi.com/view/acePublic/alias/contentid/1uigdofivufor9qljb9/0/desk-8919815552079741312jpg.jpg?w=384",
+   "source": "Mathrubhumi",
+   "category": "Kerala",
+   "published": "2026-10-17T22:19:45+00:00",
+   "coverage": 1,
+   "also": [],
+   "hot": 6.525
+  },
+  {
+   "title": "സ്പെക്ട്രം ബഡ്സ് സ്കൂളിന് വാഹനം കൈമാറി",
+   "link": "https://www.mathrubhumi.com/malappuram/news/localnews-malappuram-q5kyxmmr",
+   "snippet": "",
+   "image": "https://img.mathrubhumi.com/view/acePublic/alias/contentid/1uigccc885semm7ubaj/0/desk-3855219698988630080jpg.jpg?w=384",
+   "source": "Mathrubhumi",
+   "category": "Kerala",
+   "published": "2026-10-17T22:19:25+00:00",
+   "coverage": 1,
+   "also": [],
+   "hot": 6.524
+  },
+  {
+   "title": "ഡൽഹി സമരത്തിന് ഐക്യദാർഢ്യം",
+   "link": "https://www.mathrubhumi.com/malappuram/news/localnews-malappuram-v14sl50a",
+   "snippet": "",
+   "image": "https://img.mathrubhumi.com/view/acePublic/alias/contentid/1uigenlsro9np2uwgke/0/desk-6612546183318245786jpg.jpg?w=384",
+   "source": "Mathrubhumi",
+   "category": "Kerala",
+   "published": "2026-10-17T22:19:04+00:00",
+   "coverage": 1,
+   "also": [],
+   "hot": 6.522
+  },
+  {
+   "title": "അകത്തേത്തറയിൽ നാടിനെ വിറപ്പിച്ച പുലി കൂട്ടിൽ",
+   "link": "https://www.mathrubhumi.com/palakkad/news/localnews-palakkad-od198unh",
+   "snippet": "",
+   "image": "https://img.mathrubhumi.com/view/acePublic/alias/contentid/1uig8ils0xj4rglwt4n/0/desk-2944072808383116293jpg.jpg?w=384",
+   "source": "Mathrubhumi",
+   "category": "Kerala",
+   "published": "2026-10-17T22:12:48+00:00",
+   "coverage": 1,
+   "also": [],
+   "hot": 6.49
+  },
+  {
+   "title": "കാസര്‍കോട് സൈനുല്‍ ആബീദ് വധക്കേസില്‍ 21 പ്രതികളെയും വെറുതെവിട്ടു",
+   "link": "https://www.asianetnews.com/videos/news/zainul-abid-murder-kasaragod-court-acquits-all-21-videoshow-2xodppb",
+   "snippet": "<p>കാസര്‍കോട് സൈനുല്‍ ആബീദ് വധക്കേസില്‍ 21 പ്രതികളെയും വെറുതെവിട്ടു, കോടതി വിധി 12 വര്‍ഷത്തിന് ശേഷം, അപ്പീല്‍ നല്‍കുമെന്ന് കുടുംബം</p>",
+   "image": "https://geo.dailymotion.com/player/x1tbu.html?video=xbp604u",
+   "source": "Asianet News",
+   "category": "Kerala",
+   "published": "2026-10-17T21:42:50+00:00",
+   "coverage": 1,
+   "also": [],
+   "hot": 6.342
+  },
+  {
+   "title": "മുണ്ടംവേലി ഫ്ലാറ്റ് നിവാസികള്‍ ദുരിതത്തില്‍, സുരക്ഷിത ഇടത്തേക്ക് മാറ്റണമെന്ന് ആവശ്യം",
+   "link": "https://www.asianetnews.com/videos/news/distressed-mundamveli-flat-residents-demand-relocation-videoshow-gi3lxm1",
+   "snippet": "<p>പുനരധിവാസം എന്ന്? മുണ്ടംവേലി ഫ്ലാറ്റ് നിവാസികള്‍ ദുരിതത്തില്‍, സുരക്ഷിത ഇടത്തേക്ക് മാറ്റണമെന്ന് ആവശ്യം</p>",
+   "image": "https://geo.dailymotion.com/player/x1tbu.html?video=xbp604q",
+   "source": "Asianet News",
+   "category": "Kerala",
+   "published": "2026-10-17T21:42:48+00:00",
+   "coverage": 1,
+   "also": [],
+   "hot": 6.342
+  },
+  {
+   "title": "ഓരോ ഗ്രാമവും ജന്തര്‍മന്തറായി,യുവാക്കളെ അറസ്റ്റ് ചെയ്യുന്നത് അവസാനിപ്പിക്കണം;പ്രകാശ് രാജ്|Prakash Raj",
+   "link": "https://www.asianetnews.com/videos/news/prakash-raj-stop-arrests-as-every-village-becomes-a-protest-videoshow-865q6ig",
+   "snippet": "<p>ഓരോ ഗ്രാമവും ജന്തര്‍മന്തറായി, യുവാക്കളെ അറസ്റ്റ് ചെയ്യുന്നത് അവസാനിപ്പിക്കണം; യൂത്ത് ലീഗിന്‍റെ ജന്തര്‍മന്തര്‍ പരിപാടിയില്‍ പങ്കെടുത്ത് പ്രകാശ് രാജ്</p>",
+   "image": "https://geo.dailymotion.com/player/x1tbu.html?video=xbp5zvi",
+   "source": "Asianet News",
+   "category": "Kerala",
+   "published": "2026-10-17T21:40:14+00:00",
+   "coverage": 1,
+   "also": [],
+   "hot": 6.33
+  },
+  {
+   "title": "തുലാമാസ പൂജകൾക്കായി ശബരിമല നട തുറന്നു; ഒരുക്കങ്ങൾ വിലയിരുത്താൻ നേരിട്ടെത്തി മുഖ്യമന്ത്രി| Sabarimala",
+   "link": "https://www.asianetnews.com/videos/news/sabarimala-opens-as-cm-assesses-pilgrim-arrangements-videoshow-hge3y0h",
+   "snippet": "<p>തുലാമാസ പൂജകൾക്കായി ശബരിമല നട തുറന്നു; ഒരുക്കങ്ങൾ വിലയിരുത്താൻ മുഖ്യമന്ത്രി വി ‍ഡി സതീശൻ ശബരിമലയിലെത്തി, വിശദമായ അവലോകന യോ​ഗം ചേർന്നു, നാളെ മേൽശാന്തി നറുക്കെടുപ്പും നടക്കും</p>",
+   "image": "https://geo.dailymotion.com/player/x1tbu.html?video=xbp5zve",
+   "source": "Asianet News",
+   "category": "Kerala",
+   "published": "2026-10-17T21:40:13+00:00",
+   "coverage": 1,
+   "also": [],
+   "hot": 6.33
+  },
+  {
+   "title": "സമന്‍സ് പിണറായി വിജയന്‍റെ വീടിന്‍റെ ചുമരില്‍ പതിച്ചത് തെറ്റായ പ്രവണത; സെബാസ്റ്റ്യന്‍ പോള്‍",
+   "link": "https://www.asianetnews.com/videos/news/summons-on-pinarayi-s-wall-a-troubling-trend-s-paul-videoshow-azg0flr",
+   "snippet": "<p>നിയമം അനുശാനിക്കുന്ന നിലയില്‍ പിണറായി വിജയന്‍ അന്വേഷണത്തോട് സഹകരിക്കണം; സെബാസ്റ്റ്യന്‍ പോള്‍</p>",
+   "image": "https://geo.dailymotion.com/player/x1tbu.html?video=xbp5zoq",
+   "source": "Asianet News",
+   "category": "Kerala",
+   "published": "2026-10-17T21:37:28+00:00",
+   "coverage": 1,
+   "also": [],
+   "hot": 6.316
+  },
+  {
+   "title": "അങ്കിത ഭണ്ഡാരി കൊലക്കേസില്‍ നീതി തേടി NSUI ന്‍റെ മെഴുകുതിരി പ്രതിഷേധം| Ankita Bhandari",
+   "link": "https://www.asianetnews.com/videos/news/nsui-s-vigil-seeks-justice-for-ankita-bhandari-videoshow-7tds5bb",
+   "snippet": "<p>അങ്കിത ഭണ്ഡാരി കൊലക്കേസില്‍ നീതി തേടി NSUI ന്‍റെ മെഴുകുതിരി പ്രതിഷേധം; ദുഷ്യന്ത് കുമാര്‍ ഗൗതമിന്‍റെ നിയമനം തടയണമെന്ന് ആവശ്യം</p>",
+   "image": "https://geo.dailymotion.com/player/x1tbu.html?video=xbp5zem",
+   "source": "Asianet News",
+   "category": "Kerala",
+   "published": "2026-10-17T21:35:07+00:00",
+   "coverage": 1,
+   "also": [],
+   "hot": 6.305
+  },
   {
    "title": "ശബരിമലയിലേക്ക് മഴയത്ത് മുഖ്യമന്ത്രി വിഡി സതീശന്‍ എത്തുന്ന ദൃശ്യങ്ങള്‍| VD Satheesan | Sabarimala",
    "link": "https://www.asianetnews.com/videos/news/vd-satheesan-braves-rain-for-sabarimala-temple-visit-videoshow-t5ms93z",
@@ -12,7 +492,7 @@
    "published": "2026-10-17T21:32:29+00:00",
    "coverage": 1,
    "also": [],
-   "hot": 6.975
+   "hot": 6.293
   },
   {
    "title": "ഇന്‍റർനെറ്റ് എല്ലാവരുടെയും മൗലികാവകാശമെന്ന് സുപ്രീംകോടതി; കുട്ടികൾക്ക് നിഷേധിക്കാൻ പാടില്ല",
@@ -24,19 +504,7 @@
    "published": "2026-10-17T21:32:26+00:00",
    "coverage": 1,
    "also": [],
-   "hot": 6.975
-  },
-  {
-   "title": "9 At Nine Malayalam News | വാർത്തകൾ വിശദമായി | 17 October 2026",
-   "link": "https://www.asianetnews.com/videos/news/9-at-nine-detailed-malayalam-news-report-17-oct-2026-videoshow-2fkpiwg",
-   "snippet": "<p>Asianet News Live : https://youtube.com/live/s0LLVQeMmtU 9 At Nine Malayalam News | വാർത്തകൾ വിശദമായി | 17 October 2026</p>",
-   "image": "https://geo.dailymotion.com/player/x1tbu.html?video=xbp5td2",
-   "source": "Asianet News",
-   "category": "Kerala",
-   "published": "2026-10-17T21:30:02+00:00",
-   "coverage": 1,
-   "also": [],
-   "hot": 6.961
+   "hot": 6.292
   },
   {
    "title": "ഇ ഡി കേസ് എടുത്താൽ മറ്റ് പൊലീസ് അന്വേഷണം പോലെ പെട്ടന്ന് അറസ്റ്റ് ചെയ്യില്ല: സുബാഷ് ബാബു| News Hour",
@@ -48,19 +516,7 @@
    "published": "2026-10-17T21:30:01+00:00",
    "coverage": 1,
    "also": [],
-   "hot": 6.961
-  },
-  {
-   "title": "പടിക്കൽ സമൻസ്, പിടിമുറുക്കുന്നോ ഇഡി?| P G Suresh Kumar | News Hour 17 Oct 2026",
-   "link": "https://www.asianetnews.com/videos/news/ed-summons-p-g-suresh-kumar-a-deepening-probe-videoshow-37xu7aa",
-   "snippet": "<p>പിണറായി ചോദ്യം ചെയ്യലിനെത്തുമോ? അന്വേഷണം തടയാൻ തിടുക്കം കാട്ടുന്നോ?| News Hour 17 Oct 2026</p>",
-   "image": "https://geo.dailymotion.com/player/x1tbu.html?video=xbp5t06",
-   "source": "Asianet News",
-   "category": "Kerala",
-   "published": "2026-10-17T21:30:01+00:00",
-   "coverage": 1,
-   "also": [],
-   "hot": 6.961
+   "hot": 6.281
   },
   {
    "title": "News Time | ന്യൂസ് ടൈം | 17 October 2026",
@@ -72,7 +528,7 @@
    "published": "2026-10-17T21:30:01+00:00",
    "coverage": 1,
    "also": [],
-   "hot": 6.961
+   "hot": 6.281
   },
   {
    "title": "പിണറായി സുപ്രീംകോടതിയിൽ ചോദ്യം ചെയ്യുന്നത് ഇഡിയെ അല്ല, ഹൈക്കോടതി ഉത്തരവിനെയാണ്; ജോസഫ്.സി.മാത്യു",
@@ -84,79 +540,7 @@
    "published": "2026-10-17T21:30:01+00:00",
    "coverage": 1,
    "also": [],
-   "hot": 6.961
-  },
-  {
-   "title": "മൈലക്കാട്ട്‌ തൂണുകളിലെ മേൽപ്പാലം നിർമാണം അന്തിമഘട്ടത്തിലേക്ക്‌",
-   "link": "https://www.mathrubhumi.com/kollam/news/localnews-kollam-eykyoyur",
-   "snippet": "",
-   "image": "https://img.mathrubhumi.com/view/acePublic/alias/contentid/1uif31n5jt5ceo0nz79/0/desk-4412187237886243935jpg.jpg?w=384",
-   "source": "Mathrubhumi",
-   "category": "Kerala",
-   "published": "2026-10-17T21:23:19+00:00",
-   "coverage": 1,
-   "also": [],
-   "hot": 6.923
-  },
-  {
-   "title": "ശക്തികുളങ്ങരയ്ക്ക് ദുരിതമായി വീതിയില്ലാത്ത സർവീസ് റോഡ്",
-   "link": "https://www.mathrubhumi.com/kollam/news/localnews-kollam-jc6pnv86",
-   "snippet": "",
-   "image": "https://img.mathrubhumi.com/view/acePublic/alias/contentid/1uietg6flr3mm4pi39z/0/desk-1153436361541416165jpg.jpg?w=384",
-   "source": "Mathrubhumi",
-   "category": "Kerala",
-   "published": "2026-10-17T21:22:54+00:00",
-   "coverage": 1,
-   "also": [],
-   "hot": 6.921
-  },
-  {
-   "title": "ശബരിമല തീർഥാടനം: പുനലൂരിൽ അപകടമേഖലകൾ അടയാളപ്പെടുത്തണം-സുരേഷ് ഗോപി",
-   "link": "https://www.mathrubhumi.com/kollam/news/localnews-kollam-rkk6upp7",
-   "snippet": "",
-   "image": "https://img.mathrubhumi.com/view/acePublic/alias/contentid/1uietuutn5fnxomtdlx/0/desk-3013863158738739430jpg.jpg?w=384",
-   "source": "Mathrubhumi",
-   "category": "Kerala",
-   "published": "2026-10-17T21:22:02+00:00",
-   "coverage": 1,
-   "also": [],
-   "hot": 6.916
-  },
-  {
-   "title": "കൊല്ലത്ത് അഴിച്ചുപണിയില്ല; നാലുപേർകൂടി കമ്മിറ്റിയിൽ",
-   "link": "https://www.mathrubhumi.com/kollam/news/localnews-kollam-uta6rs3v",
-   "snippet": "",
-   "image": "https://img.mathrubhumi.com/view/acePublic/alias/contentid/1uieuizi6ul7tco6ie3/0/desk-112443643803414856jpg.jpg?w=384",
-   "source": "Mathrubhumi",
-   "category": "Kerala",
-   "published": "2026-10-17T21:21:29+00:00",
-   "coverage": 1,
-   "also": [],
-   "hot": 6.913
-  },
-  {
-   "title": "ലോഡ് ടെസ്റ്റിനായി റോഡ് അടയ്ക്കും",
-   "link": "https://www.mathrubhumi.com/kollam/news/localnews-kollam-tb9h8otg",
-   "snippet": "",
-   "image": "https://img.mathrubhumi.com/view/acePublic/alias/contentid/1uif2pf1ikbb43v1jzt/0/desk-7200000462556602863jpg.jpg?w=384",
-   "source": "Mathrubhumi",
-   "category": "Kerala",
-   "published": "2026-10-17T21:20:39+00:00",
-   "coverage": 1,
-   "also": [],
-   "hot": 6.908
-  },
-  {
-   "title": "'സസ്‌റ്റൈനബിലിറ്റി ഫോറം മിഡിൽ ഈസ്റ്റി'ന്റെ അഞ്ചാം പതിപ്പ് 2027 ജനുവരിയിൽ",
-   "link": "https://www.mathrubhumi.com/pravasi/bahrain/bahrain-news-jcmeq6cx",
-   "snippet": "",
-   "image": "https://img.mathrubhumi.com/view/acePublic/alias/contentid/1uif1gxpzvw8n9d7n0y/0/undp-x-sfme-partnership-photo-png.jpg?w=384",
-   "source": "Mathrubhumi",
-   "category": "Gulf",
-   "published": "2026-10-17T21:09:01+00:00",
-   "coverage": 1,
-   "also": [],
-   "hot": 6.843
+   "hot": 6.281
   },
   {
    "title": "ഓടിക്കൊണ്ടിരിക്കുന്ന കെഎസ്ആർടിസി ബസിൽ നിന്ന് പണവും എടിഎം കാർഡും കവർന്നു, യുവതിഇക്കായി തിരച്ചിൽ",
@@ -168,19 +552,7 @@
    "published": "2026-10-17T21:06:35+00:00",
    "coverage": 1,
    "also": [],
-   "hot": 6.829
-  },
-  {
-   "title": "അരുൺ പ്രകാശിന് യാത്രയയപ്പ് നൽകി",
-   "link": "https://www.mathrubhumi.com/pravasi/bahrain/bahrain-news-xq2uelvb",
-   "snippet": "",
-   "image": "https://img.mathrubhumi.com/view/acePublic/alias/contentid/1uievxnrgx6czzko9b9/0/koilandy-koottam-jpg.jpg?w=384",
-   "source": "Mathrubhumi",
-   "category": "Gulf",
-   "published": "2026-10-17T21:00:57+00:00",
-   "coverage": 1,
-   "also": [],
-   "hot": 6.798
+   "hot": 6.172
   },
   {
    "title": "കന്‍റോണ്‍മെന്‍റ് ഹൗസിലെ തീപിടിത്തം; തീ നിയന്ത്രണ വിധേയമാക്കി, മന്ത്രി പി.സി വിഷ്ണുനാഥ് സ്ഥലത്തെത്തി",
@@ -192,7 +564,7 @@
    "published": "2026-10-17T20:56:05+00:00",
    "coverage": 1,
    "also": [],
-   "hot": 6.772
+   "hot": 6.124
   },
   {
    "title": "'കാപ്പി സ്ക്വാഡ്' വെബ് സീരീസ് സംവിധായകന്‍ ബെല്‍രാജ് കളരിക്കലിന് വിട",
@@ -204,7 +576,7 @@
    "published": "2026-10-17T20:55:54+00:00",
    "coverage": 1,
    "also": [],
-   "hot": 6.771
+   "hot": 6.123
   },
   {
    "title": "കൊല്‍ക്കത്തിലെ ചോര്‍ ഭാഗാനിയില്‍ ദുര്‍ഗാപൂജക്കിടെ ആള്‍ക്കൂട്ട ദുരന്തം; 17 പേര്‍ മരിച്ചു",
@@ -216,7 +588,7 @@
    "published": "2026-10-17T20:54:27+00:00",
    "coverage": 1,
    "also": [],
-   "hot": 6.763
+   "hot": 6.117
   },
   {
    "title": "കോഴിക്കോട് വൻ സൈബർ തട്ടിപ്പ്; കുതിരവട്ടം സ്വദേശിയുടെ 1.35കോടി തട്ടിയെടുത്തു",
@@ -228,19 +600,7 @@
    "published": "2026-10-17T20:54:07+00:00",
    "coverage": 1,
    "also": [],
-   "hot": 6.761
-  },
-  {
-   "title": "കാന പണിക്കിടെ വീണ്ടും ജപ്പാൻ പൈപ്പു പൊട്ടി; എട്ടു പഞ്ചായത്തുകളിൽ കുടിവെള്ളം മുടങ്ങി",
-   "link": "https://www.mathrubhumi.com/alappuzha/news/localnews-alappuzha-p5jp6xrq",
-   "snippet": "",
-   "image": "https://img.mathrubhumi.com/view/acePublic/alias/contentid/1uiekwka2327uaw6sj4/0/desk-7949183411205415950jpg.jpg?w=384",
-   "source": "Mathrubhumi",
-   "category": "Kerala",
-   "published": "2026-10-17T20:53:41+00:00",
-   "coverage": 1,
-   "also": [],
-   "hot": 6.759
+   "hot": 6.115
   },
   {
    "title": "ആറ്റിങ്ങലിലെ പൊതുപ്രവര്‍ത്തകൻ സനലിന്റെ മരണം കൊലപാതകം; കൊലപ്പെടുത്തിയത് മകൻ",
@@ -252,7 +612,7 @@
    "published": "2026-10-17T20:53:32+00:00",
    "coverage": 1,
    "also": [],
-   "hot": 6.758
+   "hot": 6.113
   },
   {
    "title": "17കാരൻ ശിവസൂര്യയുടെ തിരോധാനം; ക്രൈംബ്രാഞ്ച് FIR രജിസ്റ്റര്‍ ചെയ്ത് അന്വേഷണം തുടങ്ങി",
@@ -264,55 +624,7 @@
    "published": "2026-10-17T20:53:31+00:00",
    "coverage": 1,
    "also": [],
-   "hot": 6.758
-  },
-  {
-   "title": "കയർമേഖലയിൽ തൊഴിൽദിനം ഉറപ്പാക്കും, മിനിമംകൂലി കൂട്ടും -രമേശ് ചെന്നിത്തല",
-   "link": "https://www.mathrubhumi.com/alappuzha/news/localnews-alappuzha-myf59qpa",
-   "snippet": "",
-   "image": "https://img.mathrubhumi.com/view/acePublic/alias/contentid/1uiellg7niez5eo59iz/0/desk-3210239965278520397jpg.jpg?w=384",
-   "source": "Mathrubhumi",
-   "category": "Kerala",
-   "published": "2026-10-17T20:53:17+00:00",
-   "coverage": 1,
-   "also": [],
-   "hot": 6.756
-  },
-  {
-   "title": "'ടെലിനോർ ലിങ്ക്‌സ്' വഴി 'ഫയർബേസ് ഫോൺ നമ്പർ വെരിഫിക്കേഷൻ' അവതരിപ്പിക്കുന്ന ആദ്യത്തെ കമ്പനി എസ്.ടി.സി. ബഹ്റൈൻ",
-   "link": "https://www.mathrubhumi.com/pravasi/bahrain/bahrain-news-cf7vigkg",
-   "snippet": "",
-   "image": "https://img.mathrubhumi.com/view/acePublic/alias/contentid/1uieq2rmw5k3b3mh01v/0/stc-bahrain-jpg.jpg?w=384",
-   "source": "Mathrubhumi",
-   "category": "Gulf",
-   "published": "2026-10-17T20:52:59+00:00",
-   "coverage": 1,
-   "also": [],
-   "hot": 6.755
-  },
-  {
-   "title": "പ്രവേശനകവാടത്തിന്റെ വീതികൂട്ടും; സർവീസ് റോഡിൽ വേഗം നിയന്ത്രിക്കും",
-   "link": "https://www.mathrubhumi.com/alappuzha/news/localnews-alappuzha-gw41ykg4",
-   "snippet": "",
-   "image": "https://img.mathrubhumi.com/view/acePublic/alias/contentid/1uiekmy9pd9fu8v0zm9/0/desk-5091217981629268003jpg.jpg?w=384",
-   "source": "Mathrubhumi",
-   "category": "Kerala",
-   "published": "2026-10-17T20:52:45+00:00",
-   "coverage": 1,
-   "also": [],
-   "hot": 6.754
-  },
-  {
-   "title": "തീർഥാടകർക്ക് റെയിൽവേ വിപുലമായ സൗകര്യങ്ങൾ ഒരുക്കും-സുരേഷ് ഗോപി",
-   "link": "https://www.mathrubhumi.com/alappuzha/news/localnews-alappuzha-by8h9ffi",
-   "snippet": "",
-   "image": "https://img.mathrubhumi.com/view/acePublic/alias/contentid/1uiejt88sf6w9dg2kkf/0/desk-8355486565453379037jpg.jpg?w=384",
-   "source": "Mathrubhumi",
-   "category": "Kerala",
-   "published": "2026-10-17T20:52:11+00:00",
-   "coverage": 1,
-   "also": [],
-   "hot": 6.751
+   "hot": 6.112
   },
   {
    "title": "പോക്‌സോ കേസിലെ പ്രതിക്ക് ജാമ്യം; പയ്യോളി പൊലീസ് സ്റ്റേഷനിലേക്ക് നാട്ടുകാരുടെ മാര്‍ച്ച്| POCSO Case",
@@ -324,19 +636,7 @@
    "published": "2026-10-17T20:51:55+00:00",
    "coverage": 1,
    "also": [],
-   "hot": 6.749
-  },
-  {
-   "title": "കന്നിമേൽ കുടിവെള്ളപദ്ധതി; ഒന്നാംഘട്ടം പൂർത്തിയാകുന്നു",
-   "link": "https://www.mathrubhumi.com/alappuzha/news/localnews-alappuzha-yip1wt8w",
-   "snippet": "",
-   "image": "https://img.mathrubhumi.com/view/acePublic/alias/contentid/1uiek3se6ua3wtc5hai/0/desk-5830402185857195693jpg.jpg?w=384",
-   "source": "Mathrubhumi",
-   "category": "Kerala",
-   "published": "2026-10-17T20:51:34+00:00",
-   "coverage": 1,
-   "also": [],
-   "hot": 6.747
+   "hot": 6.105
   },
   {
    "title": "കൊല്‍ക്കത്തയില്‍ ദുര്‍ഗാപൂജയ്ക്കിടെ തിക്കിലും തിരക്കിലും പെട്ട് 17 പേര്‍ മരിച്ചു|Kolkata|Durga Pooja",
@@ -348,7 +648,7 @@
    "published": "2026-10-17T20:50:50+00:00",
    "coverage": 1,
    "also": [],
-   "hot": 6.743
+   "hot": 6.1
   },
   {
    "title": "പ്രതിപക്ഷ നേതാവിന്റെ ഔദ്യോഗിക വസതിയായ കന്‍റോണ്‍മെന്‍റ് ഹൗസ് വളപ്പിൽ തീപിടിത്തം| Cantonment House",
@@ -360,7 +660,7 @@
    "published": "2026-10-17T20:50:45+00:00",
    "coverage": 1,
    "also": [],
-   "hot": 6.743
+   "hot": 6.1
   },
   {
    "title": "നെതന്യാഹു പോയാൽ യുദ്ധം തീരുമോ? ഇസ്രായേലിലെ പുതിയ 'സയണിസ്റ്റ് സഖ്യം' പറയുന്നതെന്ത്? | Netanyahu",
@@ -372,19 +672,7 @@
    "published": "2026-10-17T20:48:55+00:00",
    "coverage": 1,
    "also": [],
-   "hot": 6.733
-  },
-  {
-   "title": "തുലാമാസ പൂജകള്‍ക്കായി ശബരിമല നടതുറന്നു; ഒരുക്കങ്ങള്‍ വിലയിരുത്താന്‍ മുഖ്യമന്ത്രി എത്തി| VD Satheesan",
-   "link": "https://www.asianetnews.com/videos/news/sabarimala-temple-opens-for-thulam-puja-amid-cm-review-videoshow-4vf3vpa",
-   "snippet": "<p>തുലാമാസ പൂജകള്‍ക്കായി ശബരിമല നടതുറന്നു. പുതിയ തീര്‍ത്ഥാടന കാലത്തെ ഒരുക്കങ്ങള്‍ വിലയിരുത്താന്‍ മുഖ്യമന്ത്രി സന്നിധാനത്ത് എത്തി.</p>",
-   "image": "https://geo.dailymotion.com/player/x1tbu.html?video=xbp5ta6",
-   "source": "Asianet News",
-   "category": "Kerala",
-   "published": "2026-10-17T20:48:26+00:00",
-   "coverage": 1,
-   "also": [],
-   "hot": 6.73
+   "hot": 6.092
   },
   {
    "title": "വഖഫ് ബോർഡ് പുനഃസംഘടന; സ്റ്റേ ആവശ്യം തള്ളി ഹൈക്കോടതി| Waqf Board",
@@ -401,319 +689,7 @@
      "link": "https://www.mathrubhumi.com/news/kerala/kerala-waqf-board-reconstitution-high-court-refuses-stay-njp431oj"
     }
    ],
-   "hot": 9.729
-  },
-  {
-   "title": "വിവാഹം കഴിഞ്ഞിട്ട് ഒരുമാസം, ആദ്യ വെബ്സീരിസ് റിലീസ് ചെയ്തിട്ട് 2 ദിവസം, ചലചിത്ര ലോകത്തെ ഞെട്ടിച്ച് ബല്‍രാജ് കളരിക്കലിന്റെ മരണം",
-   "link": "https://www.asianetnews.com/entertainment-news/malayalam-director-balraj-kalarickal-dies-at-28-days-after-first-weries-streaming-in-ott-articleshow-ii4mqdg",
-   "snippet": "രാവിലെ എഴുന്നേല്‍ക്കാതായപ്പോള്‍ ഒപ്പമുണ്ടായിരുന്നവര്‍ മുറി തുറന്ന് വിളിച്ചു. അപ്പോഴേക്കും മരണം സംഭവിച്ചിരുന്നു",
-   "image": "https://static.asianetnews.com/images/w-1280,h-720,format-jpg,imgid-01m55skaape8kvtzd6mkb8txg6,imgname-balraj-kalarickal-1792269723990.jpg",
-   "source": "Asianet News",
-   "category": "Cinema",
-   "published": "2026-10-17T20:47:49+00:00",
-   "coverage": 1,
-   "also": [],
-   "hot": 6.727
-  },
-  {
-   "title": "യുഎസ് വിസ ലോട്ടറി തുറക്കാൻ കോടതി ഉത്തരവ്! ഇന്ത്യക്കാർക്ക് അപേക്ഷിക്കാമോ? | US Immigration News",
-   "link": "https://www.asianetnews.com/videos/news/court-orders-us-visa-lottery-can-indians-apply-videoshow-sroxug3",
-   "snippet": "<p>യുഎസിലേക്ക് ഗ്രീൻ കാർഡ് സ്വന്തമാക്കാൻ അവസരമൊരുക്കുന്ന 2027-ലെ 'ഡൈവേഴ്‌സിറ്റി വിസ' അഥവാ ഡിവി ലോട്ടറി രജിസ്ട്രേഷൻ നവംബർ ഒന്നിനകം അടിയന്തരമായി പുനരാരംഭിക്കാൻ ട്രംപ് ഭരണകൂടത്തോട് ഒരു യുഎസ് ഫെഡറൽ കോടതി കർശന ഉത്തരവ്…",
-   "image": "https://geo.dailymotion.com/player/x1tbu.html?video=xbp5t3a",
-   "source": "Asianet News",
-   "category": "Kerala",
-   "published": "2026-10-17T20:46:28+00:00",
-   "coverage": 1,
-   "also": [],
-   "hot": 6.72
-  },
-  {
-   "title": "തിരഞ്ഞെടുപ്പ് കമ്മിഷനും ജനാധിപത്യ ധ്വംസനവും; ചർച്ച സംഘടിപ്പിച്ച് ബഹ്റൈൻ പ്രതിഭ",
-   "link": "https://www.mathrubhumi.com/pravasi/bahrain/bahrain-news-j8049jt2",
-   "snippet": "",
-   "image": "https://img.mathrubhumi.com/view/acePublic/alias/contentid/1uiel5zdber74z4x6tg/0/prathibha-2-jpg.jpg?w=384",
-   "source": "Mathrubhumi",
-   "category": "Gulf",
-   "published": "2026-10-17T20:46:13+00:00",
-   "coverage": 1,
-   "also": [],
-   "hot": 6.718
-  },
-  {
-   "title": "ആണുങ്ങളുടെ സർക്കാരാണെങ്കിൽ നടപടിലേക്ക് പോകണം, അങ്ങനെ ഒരു സർക്കാർ ഉണ്ടോയെന്ന് അറിയില്ല: കെ സുധാകരൻ",
-   "link": "https://www.asianetnews.com/videos/news/k-sudhakaran-challenges-the-government-s-resolve-to-act-videoshow-gr8n139",
-   "snippet": "<p>മാത്യു കുഴൽനാടനെ ഒറ്റപ്പെടുത്താൻ ആരും നോക്കേണ്ടതില്ല, സംരക്ഷിക്കാൻ ഞങ്ങളൊക്കെ ഇവിടെയുണ്ട്, തീരുമാനമെടുക്കാൻ പ്രാപ്തരായ മുഖ്യമന്ത്രിയും മന്ത്രിമാരും സർക്കാരും ഇവിടെയുണ്ട് കെ സുധാകരൻ</p>",
-   "image": "https://geo.dailymotion.com/player/x1tbu.html?video=xbp5t0q",
-   "source": "Asianet News",
-   "category": "Kerala",
-   "published": "2026-10-17T20:45:49+00:00",
-   "coverage": 1,
-   "also": [],
-   "hot": 6.716
-  },
-  {
-   "title": "ഹൃത്വിക്‌ റോഷനെ ജയിലറിലെത്തിച്ചത്‌ ഭഗവാന്‍ ദാദ! നെല്‍സന്റെ പാന്‍ ഇന്ത്യന്‍ ബുദ്ധി സൂപ്പര്‍ഹിറ്റ്‌",
-   "link": "https://www.asianetnews.com/videos/entertainment/jailer-s-hrithik-link-a-clever-nod-to-bhagwan-dada-videoshow-fqwwz1l",
-   "snippet": "<p>നാല്‍പത്‌ വര്‍ഷം മുമ്പ്‌ ഭഗവാന്‍ ദാദ എന്ന സിനിമയില്‍ രജനികാന്തിന്റെ കഥാപാത്രം ദത്തെടുത്ത്‌ വളര്‍ത്തുന്ന ബാലനായി ഹൃത്വിക്‌ റോഷന്‍ ബിഗ്‌ സ്‌ക്രീനില്‍ തിളങ്ങിയിരുന്നു. ജയിലറില്‍ അവര്‍ വീണ്ടും ഒരുമിക്കുന്നത്‌ ആ പഴയ കഥ…",
-   "image": "https://geo.dailymotion.com/player/x1tbu.html?video=xbp5sze",
-   "source": "Asianet News",
-   "category": "Cinema",
-   "published": "2026-10-17T20:45:38+00:00",
-   "coverage": 1,
-   "also": [],
-   "hot": 6.715
-  },
-  {
-   "title": "അഴിമതി കേസുകളില്‍ ഇടതുപക്ഷ പാര്‍ട്ടികളുടെ സമീപനം ഇങ്ങനെ ആയിരുന്നോ: ജോസഫ് സി മാത്യു| News Hour",
-   "link": "https://www.asianetnews.com/videos/news/joseph-c-mathew-questions-left-s-corruption-stance-videoshow-06weosi",
-   "snippet": "<p>ഇഡി കേസിനെ രാഷ്ട്രീയമായി നേരിടുന്നത് മുദ്രാവാക്യം വിളിച്ചല്ല, വിഷയം നാട്ടിലെ ജനങ്ങളെ ബോധ്യപ്പെടുത്തണമെന്ന് ജോസഫ് സി മാത്യു</p>",
-   "image": "https://geo.dailymotion.com/player/x1tbu.html?video=xbp5sq2",
-   "source": "Asianet News",
-   "category": "Kerala",
-   "published": "2026-10-17T20:43:26+00:00",
-   "coverage": 1,
-   "also": [],
-   "hot": 6.703
-  },
-  {
-   "title": "ഖുർആൻ മുന്നോട്ടുവെക്കുന്നത് വിശുദ്ധിയുടെ സന്ദേശം: ശൈഖ് ഇബ്രാഹിം അൽഹാദി",
-   "link": "https://www.mathrubhumi.com/pravasi/bahrain/bahrain-news-bb8x9a7t",
-   "snippet": "",
-   "image": "https://img.mathrubhumi.com/view/acePublic/alias/contentid/1uieh4ic76u1dnxwcaa/0/qurr-aan-jpg.jpg?w=384",
-   "source": "Mathrubhumi",
-   "category": "Gulf",
-   "published": "2026-10-17T20:41:56+00:00",
-   "coverage": 1,
-   "also": [],
-   "hot": 6.695
-  },
-  {
-   "title": "വൈബായി സ്കൗട്ട്-ഗൈഡ് അന്താരാഷ്ട്ര കൂട്ടായ്മ",
-   "link": "https://www.mathrubhumi.com/thrissur/news/localnews-thrissur-qyazxxx8",
-   "snippet": "",
-   "image": "https://img.mathrubhumi.com/view/acePublic/alias/contentid/1uieel9h1onfva0v6oj/0/desk-1654380465160263639jpg.jpg?w=384",
-   "source": "Mathrubhumi",
-   "category": "Kerala",
-   "published": "2026-10-17T20:41:37+00:00",
-   "coverage": 1,
-   "also": [],
-   "hot": 6.694
-  },
-  {
-   "title": "ഇവർ വരുതിയിലാക്കും; നാടനേയും വിദേശിയേയും",
-   "link": "https://www.mathrubhumi.com/thrissur/news/localnews-thrissur-e41iueum",
-   "snippet": "",
-   "image": "https://img.mathrubhumi.com/view/acePublic/alias/contentid/1uief5ym13fg71e0k5a/0/desk-2078056140241909862jpg.jpg?w=384",
-   "source": "Mathrubhumi",
-   "category": "Kerala",
-   "published": "2026-10-17T20:40:43+00:00",
-   "coverage": 1,
-   "also": [],
-   "hot": 6.689
-  },
-  {
-   "title": "ഒല്ലൂർ തിരുനാൾ: സേവനസംഘത്തിന്റെ കൂട്ടായ്‌മ സജീവം",
-   "link": "https://www.mathrubhumi.com/thrissur/news/localnews-thrissur-jl0f51lo",
-   "snippet": "",
-   "image": "https://img.mathrubhumi.com/view/acePublic/alias/contentid/1uiefsr219g4cg0jndm/0/desk-4696230775058158779jpg.jpg?w=384",
-   "source": "Mathrubhumi",
-   "category": "Kerala",
-   "published": "2026-10-17T20:39:53+00:00",
-   "coverage": 1,
-   "also": [],
-   "hot": 6.684
-  },
-  {
-   "title": "കാടുപിടിച്ച് പീച്ചിയിലെ നീന്തൽക്കുളം",
-   "link": "https://www.mathrubhumi.com/thrissur/news/localnews-thrissur-m52ki3mq",
-   "snippet": "",
-   "image": "https://img.mathrubhumi.com/view/acePublic/alias/contentid/1uiefi7gccn6gf3u0z3/0/desk-5219316596675489245jpg.jpg?w=384",
-   "source": "Mathrubhumi",
-   "category": "Kerala",
-   "published": "2026-10-17T20:39:31+00:00",
-   "coverage": 1,
-   "also": [],
-   "hot": 6.683
-  },
-  {
-   "title": "സ്വാദുത്സവം ഭക്ഷ്യമേള",
-   "link": "https://www.mathrubhumi.com/thrissur/news/localnews-thrissur-nyl3clpm",
-   "snippet": "",
-   "image": "https://img.mathrubhumi.com/view/acePublic/alias/contentid/1uiegclzrhhkxrs6f75/0/desk-1884155678263918305jpg.jpg?w=384",
-   "source": "Mathrubhumi",
-   "category": "Kerala",
-   "published": "2026-10-17T20:39:07+00:00",
-   "coverage": 1,
-   "also": [],
-   "hot": 6.68
-  },
-  {
-   "title": "പ്രതിഷേധങ്ങൾ അവസാനിക്കുന്നില്ല; ദില്ലിയിൽ പ്രതിഷേധം കൂടുതൽ സജീവമാക്കാൻ ഇന്ത്യ സഖ്യം",
-   "link": "https://www.asianetnews.com/videos/news/delhi-protests-india-alliance-plans-to-escalate-action-videoshow-g6psrc9",
-   "snippet": "<p>പ്രതിഷേധങ്ങൾ അവസാനിക്കുന്നില്ല; ദില്ലിയിലെ രാംലീല മൈതാനത്ത് നവംബര്‍ ഒന്നിന് പ്രതിഷേധം കൂടുതൽ സജീവമാക്കാൻ ഇന്ത്യ സഖ്യം, പൊലീസ് അതിക്രമം ഗൗരവമായി എടുക്കാൻ കോൺഗ്രസ്, 27ന് സിപിഐയുടെ മനുഷ്യചങ്ങല</p>",
-   "image": "https://geo.dailymotion.com/player/x1tbu.html?video=xbp5s1u",
-   "source": "Asianet News",
-   "category": "Kerala",
-   "published": "2026-10-17T20:38:19+00:00",
-   "coverage": 1,
-   "also": [],
-   "hot": 6.676
-  },
-  {
-   "title": "പിണറായി വിജയന് ED സമൻസ്; തിരുവനന്തപുരത്തെ വീട്ടിൽ നോട്ടീസ്| Pinarayi Vijayan | ED",
-   "link": "https://www.asianetnews.com/videos/news/ed-summons-pinarayi-vijayan-notice-served-at-residence-videoshow-5wtuxg6",
-   "snippet": "<p>പിണറായി വിജയന് ED സമൻസ്; തിരുവനന്തപുരത്തെ വീട്ടിൽ നോട്ടീസ്; ഈ മാസം 23ന് ഹാജരാകാനാണ് സമൻസ്; ചോദ്യം ചെയ്യാൻ ED സ്പെഷ്യൽ ഡയറക്ടറെത്തും</p>",
-   "image": "https://geo.dailymotion.com/player/x1tbu.html?video=xbp5rz6",
-   "source": "Asianet News",
-   "category": "Kerala",
-   "published": "2026-10-17T20:37:58+00:00",
-   "coverage": 1,
-   "also": [],
-   "hot": 6.674
-  },
-  {
-   "title": "ഒഡീഷ സ്വദേശിയുടെ മൃതദേഹം റെയിൽവേ ട്രാക്കിൽ കണ്ടെത്തിയ സംഭവം; ഭാര്യ അറസ്റ്റിൽ| Kochi",
-   "link": "https://www.asianetnews.com/videos/news/odisha-man-on-kochi-track-wife-arrested-in-death-probe-videoshow-aq9ly9g",
-   "snippet": "<p>ഇടപ്പള്ളി റെയിൽവേ ട്രാക്കിൽ ഒഡീഷ സ്വദേശിയുടെ മൃതദേഹം കണ്ടെത്തിയ സംഭവം; ഭാര്യ അറസ്റ്റിൽ, മകൾക്ക് നേരെ ലൈംഗിക അതിക്രമം നടത്തിയതിന് അടിച്ചു കൊലപ്പെടുത്തിയതെന്ന് ഭാര്യ</p>",
-   "image": "https://geo.dailymotion.com/player/x1tbu.html?video=xbp5rpu",
-   "source": "Asianet News",
-   "category": "Kerala",
-   "published": "2026-10-17T20:35:19+00:00",
-   "coverage": 1,
-   "also": [],
-   "hot": 6.66
-  },
-  {
-   "title": "വഖഫ് ബോര്‍ഡ് പുനഃസംഘടനയിൽ രാഷ്ട്രീയ പോര് കനക്കുന്നു| Waqf Board",
-   "link": "https://www.asianetnews.com/videos/news/political-row-intensifies-over-waqf-board-reshuffle-videoshow-g81ld5n",
-   "snippet": "<p>വഖഫ് ബോര്‍ഡ് പുനഃസംഘടനയിൽ രാഷ്ട്രീയ പോര് കനക്കുന്നു; പുനഃസംഘടന BJP താത്പര്യം നടപ്പാക്കാനെന്ന് സിപിഎം, ബോര്‍ഡ് പുനഃസംഘടിപ്പിച്ചത് കോടതി നിര്‍ദേശ പ്രകാരമെന്ന് എം ഷംസുദ്ദീൻ</p>",
-   "image": "https://geo.dailymotion.com/player/x1tbu.html?video=xbp5rou",
-   "source": "Asianet News",
-   "category": "Kerala",
-   "published": "2026-10-17T20:35:03+00:00",
-   "coverage": 1,
-   "also": [],
-   "hot": 6.659
-  },
-  {
-   "title": "\"ഒന്നിച്ചൊരോണം\" ആഘോഷമാക്കി കേളി ഉമ്മുൽ ഹമാം ഏരിയ",
-   "link": "https://www.mathrubhumi.com/pravasi/saudi-arabia/saudi-news-vkasii59",
-   "snippet": "",
-   "image": "https://img.mathrubhumi.com/view/acePublic/alias/contentid/1uidxnop5mmoyjavucd/0/whatsapp-image-2026-10-07-at-21-44-00-jpeg.jpg?w=384",
-   "source": "Mathrubhumi",
-   "category": "Gulf",
-   "published": "2026-10-17T20:12:28+00:00",
-   "coverage": 1,
-   "also": [],
-   "hot": 6.541
-  },
-  {
-   "title": "ഹൂതി മിസൈലുകളിൽ ചൈനീസ് ഘടകങ്ങളില്ല; ആരോപണങ്ങൾ അടിസ്ഥാനരഹിതമെന്ന് സൗദിയിലെ ചൈനീസ് അംബാസഡർ",
-   "link": "https://www.mathrubhumi.com/pravasi/saudi-arabia/saudi-news-vcqzmvk7",
-   "snippet": "",
-   "image": "https://img.mathrubhumi.com/view/acePublic/alias/contentid/1uidsd5bxic807mit4y/0/china-s-ambassador-to-the-kingdom-zhang-hua-jpg.jpg?w=384",
-   "source": "Mathrubhumi",
-   "category": "Gulf",
-   "published": "2026-10-17T20:05:17+00:00",
-   "coverage": 1,
-   "also": [],
-   "hot": 6.505
-  },
-  {
-   "title": "ദേവയ്ക്ക് അന്ത്യാഞ്ജലിയർപ്പിച്ച് സിനിമാലോകം",
-   "link": "https://www.mathrubhumi.com/pravasi/chennai/pravasi-chennai-qjqq3thk",
-   "snippet": "",
-   "image": "https://img.mathrubhumi.com/view/acePublic/alias/contentid/1uidsa5txqtn0v9bhha/0/desk-6145767366452947184jpg.jpg?w=384",
-   "source": "Mathrubhumi",
-   "category": "Gulf",
-   "published": "2026-10-17T20:05:10+00:00",
-   "coverage": 1,
-   "also": [],
-   "hot": 6.504
-  },
-  {
-   "title": "കുദു–കേളി സഫാ മക്കാ കപ്പ് ക്രിക്കറ്റ്: ആറാം വാരത്തിൽ മൂന്ന് മത്സരങ്ങൾ",
-   "link": "https://www.mathrubhumi.com/pravasi/saudi-arabia/saudi-news-r710wnuv",
-   "snippet": "",
-   "image": "https://img.mathrubhumi.com/view/acePublic/alias/contentid/1uidnrbvi89jgb3t2at/0/keli-jpg.jpg?w=384",
-   "source": "Mathrubhumi",
-   "category": "Gulf",
-   "published": "2026-10-17T19:58:49+00:00",
-   "coverage": 1,
-   "also": [],
-   "hot": 6.472
-  },
-  {
-   "title": "അരുവിപ്പുറം-പാഞ്ചിക്കാട് റോഡ്‌; നവീകരണം അകലെ",
-   "link": "https://www.mathrubhumi.com/thiruvananthapuram/news/localnews-thiruvananthapuram-i1oh0yf0",
-   "snippet": "",
-   "image": "https://img.mathrubhumi.com/view/acePublic/alias/contentid/1uidhda93nd2j4cjv94/0/desk-7500137379396198315jpg.jpg?w=384",
-   "source": "Mathrubhumi",
-   "category": "Kerala",
-   "published": "2026-10-17T19:55:24+00:00",
-   "coverage": 1,
-   "also": [],
-   "hot": 6.455
-  },
-  {
-   "title": "പ്രവർത്തനമില്ലാതെ വർക്കലയിലെ ടൂറിസം അമിനിറ്റി സെന്റർ",
-   "link": "https://www.mathrubhumi.com/thiruvananthapuram/news/localnews-thiruvananthapuram-uaktfy8m",
-   "snippet": "",
-   "image": "https://img.mathrubhumi.com/view/acePublic/alias/contentid/1uidhtwgj0kscgyyn8l/0/desk-5140795047130546584jpg.jpg?w=384",
-   "source": "Mathrubhumi",
-   "category": "Kerala",
-   "published": "2026-10-17T19:54:56+00:00",
-   "coverage": 1,
-   "also": [],
-   "hot": 6.453
-  },
-  {
-   "title": "അങ്കണവാടി ജീവനക്കാർ മാർച്ചും ധർണയും നടത്തി",
-   "link": "https://www.mathrubhumi.com/thiruvananthapuram/news/localnews-thiruvananthapuram-uui08dt5",
-   "snippet": "",
-   "image": "https://img.mathrubhumi.com/view/acePublic/alias/contentid/1uidgjb4szjxm2ok9z4/0/desk-748082108298900539jpg.jpg?w=384",
-   "source": "Mathrubhumi",
-   "category": "Kerala",
-   "published": "2026-10-17T19:54:06+00:00",
-   "coverage": 1,
-   "also": [],
-   "hot": 6.449
-  },
-  {
-   "title": "സ്വകാര്യബസ് നിയന്ത്രണംവിട്ട് മതിലിലിടിച്ച് യാത്രക്കാർക്ക്‌ പരിക്ക്‌",
-   "link": "https://www.mathrubhumi.com/thiruvananthapuram/news/localnews-thiruvananthapuram-t1i031uk",
-   "snippet": "",
-   "image": "https://img.mathrubhumi.com/view/acePublic/alias/contentid/1uidi7pc8ahqqysr011/0/desk-2367271138210772354jpg.jpg?w=384",
-   "source": "Mathrubhumi",
-   "category": "Kerala",
-   "published": "2026-10-17T19:53:40+00:00",
-   "coverage": 1,
-   "also": [],
-   "hot": 6.447
-  },
-  {
-   "title": "അവയവദാന സന്ദേശവുമായി സ്‌നേഹസന്ദേശയാത്ര",
-   "link": "https://www.mathrubhumi.com/thiruvananthapuram/news/localnews-thiruvananthapuram-xdxuyroc",
-   "snippet": "",
-   "image": "https://img.mathrubhumi.com/view/acePublic/alias/contentid/1uidjymvp60w21qhm6p/0/desk-1114491442694085386jpg.jpg?w=384",
-   "source": "Mathrubhumi",
-   "category": "Kerala",
-   "published": "2026-10-17T19:53:20+00:00",
-   "coverage": 1,
-   "also": [],
-   "hot": 6.445
-  },
-  {
-   "title": "ബുധനാഴ്ച വരെ സൗദിയിലെ മിക്ക മേഖലകളിലും ഇടിമിന്നലോടുകൂടിയ മഴയ്ക്ക് സാധ്യത; ജാഗ്രതാ നിർദേശവുമായി സിവിൽ ഡിഫൻസ്",
-   "link": "https://www.mathrubhumi.com/pravasi/saudi-arabia/saudi-news-j2x5w6v1",
-   "snippet": "",
-   "image": "https://img.mathrubhumi.com/view/acePublic/alias/contentid/1uidgvuu05fciui3tsr/0/rain-png.jpg?w=384",
-   "source": "Mathrubhumi",
-   "category": "Gulf",
-   "published": "2026-10-17T19:48:58+00:00",
-   "coverage": 1,
-   "also": [],
-   "hot": 6.423
+   "hot": 9.088
   },
   {
    "title": "രേഖകളില്ലാതെ അനധികൃതമായെത്തിയ ബംഗ്ലാദേശ് പൗരൻ പിടിയിൽ",
@@ -725,7 +701,7 @@
    "published": "2026-10-17T18:58:29+00:00",
    "coverage": 1,
    "also": [],
-   "hot": 6.183
+   "hot": 5.636
   },
   {
    "title": "കന്റോൺമെന്റ് ഹൗസിന് പിന്നിൽ തീപ്പിടിത്തം; ആളപായമില്ല, തീ അണച്ചു",
@@ -737,10 +713,10 @@
    "published": "2026-10-17T17:50:57+00:00",
    "coverage": 1,
    "also": [],
-   "hot": 5.887
+   "hot": 5.391
   },
   {
-   "title": "കൊൽക്കത്തയിൽ ദുർഗ്ഗാ പൂജാ പന്തലിലെ തിക്കിലും തിരക്കിലും വൻ അപകടം, 17 പേർ മരിച്ചു",
+   "title": "കൊൽക്കത്തയിൽ ദുർഗ്ഗാ പൂജാ പന്തലിലെ തിക്കിലും തിരക്കിലും വൻ അപകടം, 19 പേർ മരിച്ചു",
    "link": "https://www.mathrubhumi.com/news/india/kolkata-durga-puja-stampede-2026-chore-bagan-boujpr3q",
    "snippet": "പൂജാ പന്തലിന്റെ എക്സിറ്റ് ഗേറ്റിൽ മഴയെത്തുടർന്ന് വൻ തിരക്ക് രൂപപ്പെട്ടതാണ് അപകടത്തിലേക്ക് നയിച്ചതെന്ന് പോലീസ് പറയുന്നു.",
    "image": "https://img.mathrubhumi.com/view/acePublic/alias/contentid/1uibttkthop4xva2y3h/0/f721589b-bd90-47aa-a766-0a03b588a82c-jpg.webp?f=16:9&w=900&q=0.8",
@@ -749,7 +725,7 @@
    "published": "2026-10-17T17:06:04+00:00",
    "coverage": 1,
    "also": [],
-   "hot": 5.706
+   "hot": 5.241
   },
   {
    "title": "പരിക്കേറ്റ് ചികിത്സയിലിരിക്കേ പിതാവ് മരിച്ചു; യുവാവ് അറസ്റ്റിൽ, മർദനത്തിന് കാരണമായത് ചാർജിങ്ങിനെച്ചൊല്ലിയുള്ള തർക്കം",
@@ -761,7 +737,7 @@
    "published": "2026-10-17T16:19:11+00:00",
    "coverage": 1,
    "also": [],
-   "hot": 5.529
+   "hot": 5.094
   },
   {
    "title": "റോഡിലെ മതിലിടിഞ്ഞ് വീണ് വീട് തകർന്നു; ശബ്ദംകേട്ട് പുറത്തേക്കോടിയ വീട്ടമ്മ രക്ഷപ്പെട്ടു",
@@ -773,7 +749,7 @@
    "published": "2026-10-17T16:15:29+00:00",
    "coverage": 1,
    "also": [],
-   "hot": 5.515
+   "hot": 5.083
   },
   {
    "title": "‘ആണുങ്ങളുടെ സർക്കാരാണെങ്കിൽ പിണറായിക്കെതിരേ നടപടിയുണ്ടാകും’- രൂക്ഷവിമർശനവുമായി കെ. സുധാകരൻ, കുഴൽനാടന് പിന്തുണ",
@@ -785,7 +761,7 @@
    "published": "2026-10-17T15:59:16+00:00",
    "coverage": 1,
    "also": [],
-   "hot": 5.457
+   "hot": 5.035
   },
   {
    "title": "നീറ്റ് സമരം; അന്വേഷണ സമിതിക്ക് പരാതിനൽകാൻ പുതിയ ഓൺലൈൻ പോർട്ടൽ, വിവരങ്ങൾ രഹസ്യമായി സൂക്ഷിക്കും",
@@ -797,7 +773,7 @@
    "published": "2026-10-17T15:54:58+00:00",
    "coverage": 1,
    "also": [],
-   "hot": 5.442
+   "hot": 5.022
   },
   {
    "title": "'ഇതിന്നോ ആദാമേ..'; ചെമ്പൻ വിനോദിന്റെ തകർപ്പൻ പെർഫോർമൻസുമായി 'ഡിസ്‌കോ'യിലെ ആദ്യഗാനം",
@@ -809,7 +785,7 @@
    "published": "2026-10-17T15:53:01+00:00",
    "coverage": 1,
    "also": [],
-   "hot": 5.435
+   "hot": 5.017
   },
   {
    "title": "രമ്യാ ഹരിദാസിന്റെ നിലപാടുകളോട് ആർക്കും വിയോജിക്കാം, ഒറ്റപ്പെടുത്താനുള്ള ശ്രമങ്ങളിലേക്ക് വഴിമാറരുത്- ചാണ്ടി ഉമ്മൻ",
@@ -821,7 +797,7 @@
    "published": "2026-10-17T15:40:01+00:00",
    "coverage": 1,
    "also": [],
-   "hot": 5.39
+   "hot": 4.979
   },
   {
    "title": "ഇന്ത്യ വിടാൻ ആവശ്യപ്പെട്ടുള്ള നോട്ടീസിനെതിരേ ഹൈക്കോടതിയെ സമീപിച്ച് ഇമ്രാൻ ഖാൻ; റദ്ദാക്കണമെന്ന് ആവശ്യം",
@@ -833,7 +809,7 @@
    "published": "2026-10-17T15:38:02+00:00",
    "coverage": 1,
    "also": [],
-   "hot": 5.383
+   "hot": 4.974
   },
   {
    "title": "ടോർച്ച് തെളിച്ച് ദിലീഷ് പോത്തൻ; ഭാവന റിലീസിലൂടെ 'ഭൗമ' തിയേറ്ററുകളിലേക്ക്",
@@ -845,7 +821,7 @@
    "published": "2026-10-17T15:37:52+00:00",
    "coverage": 1,
    "also": [],
-   "hot": 5.382
+   "hot": 4.973
   },
   {
    "title": "പുതുമുഖം വാമികയും റോഷൻ ചന്ദ്രയും ഒന്നിക്കുന്ന ആക്ഷൻ റിവഞ്ച് ത്രില്ലർ: 'പ്രഹരം' ഫസ്റ്റ്‌ലുക്ക് പോസ്റ്റർ",
@@ -857,7 +833,7 @@
    "published": "2026-10-17T15:30:40+00:00",
    "coverage": 1,
    "also": [],
-   "hot": 5.358
+   "hot": 4.953
   },
   {
    "title": "‘അമിത അളവിൽ സുഹൈൽ മദ്യപിച്ചു; പുറത്തിറങ്ങിയാൽ കേസിനെ സ്വാധീനിക്കും’; പ്രതികൾ ബോസ്റ്റൽ സ്കൂളിൽ തുടരും",
@@ -869,7 +845,7 @@
    "published": "2026-10-17T15:15:26+00:00",
    "coverage": 1,
    "also": [],
-   "hot": 5.306
+   "hot": 4.91
   },
   {
    "title": "തലയ്ക്കടിയേറ്റ് ബോധംമറഞ്ഞു, ചുറ്റും നിലവിളികൾ; ജീവൻ നഷ്ടപ്പെടുമോയെന്ന് ഭയന്നു- ഫ്ലെെ ദുബായ് സംഭവത്തെക്കുറിച്ച് സ്മിത് മച്ചാർ",
@@ -881,7 +857,7 @@
    "published": "2026-10-17T15:04:18+00:00",
    "coverage": 1,
    "also": [],
-   "hot": 5.269
+   "hot": 4.88
   },
   {
    "title": "വഖഫ് ബോർഡ് പുനഃസംഘടന: സർക്കാർ നടപടി സ്റ്റേ ചെയ്യണമെന്ന് കെ.എസ്. ഹംസ; ഹൈക്കോടതിയിൽ പ്രത്യേക സിറ്റിങ്",
@@ -893,7 +869,7 @@
    "published": "2026-10-17T14:46:28+00:00",
    "coverage": 1,
    "also": [],
-   "hot": 5.212
+   "hot": 4.832
   },
   {
    "title": "സിക്കിം ഗവർണർ നിയമനത്തിനെതിരെ എൻ.എസ്.യു.ഐ. പ്രതിഷേധം; ജന്തർ മന്തറിൽ മെഴുകുതിരി കത്തിച്ച് മാർച്ച്",
@@ -905,7 +881,7 @@
    "published": "2026-10-17T14:33:52+00:00",
    "coverage": 1,
    "also": [],
-   "hot": 5.172
+   "hot": 4.799
   },
   {
    "title": "ഇന്ത്യ- വെസ്റ്റിൻഡീസ് അഞ്ചാം ട്വന്റി 20 മഴ‌ മൂലം ഉപേക്ഷിച്ചു, ട്രോഫി ഇരുടീമുകളും പങ്കിട്ടു",
@@ -917,7 +893,7 @@
    "published": "2026-10-17T14:16:32+00:00",
    "coverage": 1,
    "also": [],
-   "hot": 5.118
+   "hot": 4.754
   },
   {
    "title": "ഡെയ്ഞ്ചറസ് ഡാനി; 'ബാച്ച്ലർ പാർട്ടി Deux'- ലെ സൗബിന്റെ പോസ്റ്റർ പുറത്ത്",
@@ -929,7 +905,7 @@
    "published": "2026-10-17T14:11:31+00:00",
    "coverage": 1,
    "also": [],
-   "hot": 5.103
+   "hot": 4.742
   },
   {
    "title": "രവീന്ദ്രൻനായരുടെ 1.30 കോടിയുടെ 'സെറ്റിൽമെന്റ്'; 'ഇവിടെവരെ വരാമോ?': ആ ഫോൺ കോളിൽ അവസാനിച്ച 9 വർഷത്തെ അഹങ്കാരം",
@@ -941,7 +917,7 @@
    "published": "2026-10-17T13:57:23+00:00",
    "coverage": 1,
    "also": [],
-   "hot": 5.06
+   "hot": 4.707
   },
   {
    "title": "'നമുക്ക് 18 കോടി കിട്ടിയാൽ പ്രശ്‌നം, വിദേശതാരമാണെങ്കിൽ കുഴപ്പമില്ല'-യുസ്‌വേന്ദ്ര ചാഹൽ",
@@ -953,7 +929,7 @@
    "published": "2026-10-17T13:36:20+00:00",
    "coverage": 1,
    "also": [],
-   "hot": 4.999
+   "hot": 4.656
   },
   {
    "title": "‘മാത്യു കുഴൽനാടന് ഭീഷണി, സംരക്ഷണം നൽകണം’; പോലീസിന് പരാതി നൽകി",
@@ -965,43 +941,7 @@
    "published": "2026-10-17T13:22:59+00:00",
    "coverage": 1,
    "also": [],
-   "hot": 4.961
-  },
-  {
-   "title": "SIR വിരുദ്ധസമരം; രാംലീലാ മൈതാനത്ത് നവംബർ ഒന്നിന് കോൺഗ്രസ് റാലി, അനുമതി നൽകി ഡൽഹി പോലീസ്",
-   "link": "https://www.mathrubhumi.com/news/india/delhi-police-congress-rally-ramlila-maidan-noc-c6ernmyn",
-   "snippet": "Delhi Police issued an NOC for the Congress rally at Ramlila Maidan., The permitted timeframe for the rally events is from October 25 to November 3",
-   "image": "https://img.mathrubhumi.com/view/acePublic/alias/contentid/1ui57b0eelaacgh20z1/0/ani_20261012387.webp?f=16:9&w=900&q=0.8",
-   "source": "Mathrubhumi",
-   "category": "India",
-   "published": "2026-10-17T13:12:03+00:00",
-   "coverage": 1,
-   "also": [],
-   "hot": 4.93
-  },
-  {
-   "title": "ഹൂതി ആക്രമണം; സൗദിയിലേക്കും തിരിച്ചുമുള്ള വിമാന സർവീസുകൾ റദ്ദാക്കി എയർ ഇന്ത്യയും എയർ ഇന്ത്യ എക്സ്പ്രസും",
-   "link": "https://www.mathrubhumi.com/pravasi/news/air-india-express-suspend-saudi-arabia-flights-october-24-mrsat9mp",
-   "snippet": "",
-   "image": "https://img.mathrubhumi.com/view/acePublic/alias/contentid/1ui4x2gzgsvmjfuavql/0/air-india-flight-pilots-drug-test-jpg.webp?f=16:9&w=900&q=0.8",
-   "source": "Mathrubhumi",
-   "category": "Gulf",
-   "published": "2026-10-17T12:45:35+00:00",
-   "coverage": 1,
-   "also": [],
-   "hot": 4.857
-  },
-  {
-   "title": "'ആ യുവതാരത്തോട് കാണിച്ചത് വലിയ അനീതി'-ടീമിനെ പ്രഖ്യാപിച്ചതിന് പിന്നാലെ അശ്വിൻ",
-   "link": "https://www.mathrubhumi.com/sports/cricket/ravichandran-ashwin-criticizes-bcci-yashasvi-jaiswal-snub-gw33t101",
-   "snippet": "താന്‍ സെലക്ഷന്‍ കമ്മിറ്റിയില്‍ ഉണ്ടായിരുന്നെങ്കില്‍ യശസ്വിയെ വിളിച്ച് രണ്ട് മത്സരങ്ങള്‍ കളിക്കാന്‍ തയ്യാറാണോ എന്ന് ചോദിക്കുമായിരുന്നുവെന്നും അശ്വന്‍ കൂട്ടിച്ചേര്‍ത്തു.",
-   "image": "https://img.mathrubhumi.com/view/acePublic/alias/contentid/1ui492uujqvkiaxmz7h/0/yashasvi-jaiswal-jpg.webp?f=16:9&w=900&q=0.8",
-   "source": "Mathrubhumi",
-   "category": "Sports",
-   "published": "2026-10-17T12:03:59+00:00",
-   "coverage": 1,
-   "also": [],
-   "hot": 4.749
+   "hot": 4.624
   }
  ]
 }
